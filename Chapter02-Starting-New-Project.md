@@ -1,6 +1,8 @@
+# Chapter 2: Starting a New Project
+
 **In The Beginning ...**
 
-# Let's Get It Started
+## Let's Get It Started
 
 Congratulations, now you've got buy-in from your organization! Your internal stakeholders, bosses, and team are totally cool with what you have planned. You do have a plan, right?
 
