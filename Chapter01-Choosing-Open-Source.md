@@ -88,7 +88,7 @@ You can say:
 
 *How do we make sure proprietary information is not part of the open source release?*
 
-* "We'll follow established practices for sanitizing codebases before we release them to the public eye." (See Chapter 3 for more information on how to do this.)
+* "We'll follow established practices for sanitizing codebases before we release them to the public eye." (See [Chapter 3](Chapter03-Existing-Projects.md) for more information on how to do this.)
 
 * "We'll make sure you're in the loop about our releases so you can flag any concerns about proprietary information."
 
@@ -168,7 +168,7 @@ By "immediate boss," we're speaking primarily about the people who manage your (
 
 You can say:
 
-* "Here's how much time I plan to spend on this every week. (Share a detailed plan and a roadmap for first phase of the project.)" (Don't have this yet? See Chapter 4 for advice on scoping this out.)
+* "Here's how much time I plan to spend on this every week. (Share a detailed plan and a roadmap for first phase of the project.)" (Don't have this yet? See [Chapter 4](Chapter04-Code-First-Release.md) for advice on scoping this out.)
 
 * "Part of open sourcing will be defining what sort of maintenance we plan to have for this tool, and communicating that to our audience. We can explain whether the project is maintained, if it's supported, and if we're accepting contributions upfront, which will help us manage those expectations." (More advice [here](https://pantheon.io/blog/still-maintained).)
 

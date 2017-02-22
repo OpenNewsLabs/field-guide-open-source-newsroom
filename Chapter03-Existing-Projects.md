@@ -6,7 +6,7 @@
 
 ![i am error](https://media.opennews.org/fieldguides/open-sourcing/error.jpg)
 
-In Chapter 2, we talked about how to start a new open source project. You had buy-in to open source it from the beginning, and learned a lot along the way about identifying your audience, making sure there wasn't already a better solution out in the world, and the benefits of working in public.
+In [Chapter 2](Chapter02-Starting-New-Project.md), we talked about how to start a new open source project. You had buy-in to open source it from the beginning, and learned a lot along the way about identifying your audience, making sure there wasn't already a better solution out in the world, and the benefits of working in public.
 
 Or not.
 
@@ -64,7 +64,7 @@ Different projects require different forms of collaboration from the community. 
 
 ## Treat It Like A New Project
 
-See Chapter 2: Starting A New Project for instructions on things like naming, choosing a license, and evaluating the competition.
+See [Chapter 2](Chapter02-Starting-New-Project.md) for instructions on things like naming, choosing a license, and evaluating the competition.
 
 # Examples
 

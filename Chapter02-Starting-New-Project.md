@@ -112,7 +112,7 @@ We're so excited for you right now. You've started your first open source projec
 
 ![ahhhhhhhhhhhh](https://media.opennews.org/fieldguides/open-sourcing/kermit.gif)
 
-But wait, there's more. Skip to Chapter 4 to learn more about your first release, writing detailed and useful documentation, growing your community, and the inevitable end of your project. Or, if your task is to open source an existing project, make your way to Chapter 3.
+But wait, there's more. Skip to [Chapter 4](Chapter04-Code-First-Release.md) to learn more about your first release, writing detailed and useful documentation, growing your community, and the inevitable end of your project. Or, if your task is to open source an existing project, make your way to [Chapter 3](Chapter03-Existing-Projects.md).
 
 ## Checklist
 
