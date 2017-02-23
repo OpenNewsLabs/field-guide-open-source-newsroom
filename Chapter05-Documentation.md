@@ -164,7 +164,6 @@ The NPR Visuals team and the Institute for Nonprofit News both use onboarding as
 
 > At my job, there's a project I work on in which every other Tuesday I devote time to making fixes and updates. It streamlines the process and sets expectations for the whole team on when the project gets updated. *— Mallory Busch*
 
-## Finishing up
+## Checklist
 
 [TODO: add a checklist]
-

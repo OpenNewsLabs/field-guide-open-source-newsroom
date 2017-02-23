@@ -102,11 +102,11 @@ There might be. Consider whether this is a moment to stand on the shoulders of g
 
 Spend some time searching for similar projects in the wider news nerd community, and beyond on GitHub and elsewhere. If you find an amazing repository you might want to build on, take a closer look at open issues, the recency of pull requests and commits, and get a feel for whether it's actively being maintained. Then, get in touch with the owners and find out what they learned along the way.
 
-# More on Getting Started
+## More on Getting Started
 
 * [http://producingoss.com/en/getting-started.html](http://producingoss.com/en/getting-started.html) 
 
-# What's Next
+## What's Next
 
 We're so excited for you right now. You've started your first open source project!
 

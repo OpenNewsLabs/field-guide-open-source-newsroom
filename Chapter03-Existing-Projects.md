@@ -66,11 +66,11 @@ Different projects require different forms of collaboration from the community. 
 
 See [Chapter 2](Chapter02-Starting-New-Project.md) for instructions on things like naming, choosing a license, and evaluating the competition.
 
-# Examples
+## Examples
 
 [TODO: add your examples!]
 
-# Finishing Up
+## Finishing Up
 
 Now let's talk about how to set up your codebase and code infrastructure for a better chance of success.
 

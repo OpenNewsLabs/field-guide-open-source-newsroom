@@ -156,6 +156,6 @@ Here's a great overview of getting to the first release:
 
 * Releasing Open Source: [http://wiki.civiccommons.org/Releasing_Open_Source/](http://wiki.civiccommons.org/Releasing_Open_Source/) 
 
-## Finishing Up
+## Checklist
 
-[TODO: checklist]
+[TODO: add a checklist]
