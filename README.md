@@ -21,7 +21,7 @@ But we're building one together. This guidebook collects the advice and experien
 
 ## Contact
 
-Want to know more about this project? Reach out to [fieldguide@opennews.org](mailto:fieldguide@opennews.org).
+Want to know more about this guidebook? Have a question about open-sourcing a newsroom project? Reach out to [fieldguide@opennews.org](mailto:fieldguide@opennews.org).
 
 ## Contributing
 
