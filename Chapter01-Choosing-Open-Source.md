@@ -1,4 +1,4 @@
-# Chapter 1: Choosing Open Source, Getting Buy-In
+# Chapter 1: Choosing Open Source, and Getting Buy-In
 
 Before your project even begins—before you start thinking about documentation, languages or contributor guidelines—figure out whether you need to get support for your open source project within your newsroom. Establishing buy-in creates a culture where open source projects, big and small, are valued and supported. And it builds a solid foundation for ambitious open source projects to succeed in the long term. 
 

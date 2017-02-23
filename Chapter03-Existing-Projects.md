@@ -1,4 +1,4 @@
-# Chapter 3: Opening An Existing Project
+# Chapter 3: Opening Up An Existing Project
 
 **It's Never Too Late For Now**
 

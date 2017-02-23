@@ -1,4 +1,4 @@
-# Chapter 4: Code: Getting To The First Release
+# Chapter 4: Code, and Getting To The First Release
 
 In this chapter, we'll talk about how to set up your open source project and write code in ways that:
 
