@@ -292,7 +292,7 @@ The idea was to show through multiple fronts exactly what the community was faci
 
 Because there are no shortage of neighborhoods facing these situations around the country, the idea was also to create a model that could be transferred and quickly used by others who needed it (hence why making the code publicly available was an aspect, though not the primary one I focused on as one of the reporters).
 
-[For more on the Burton Street Project's lack of clarity on some open source licensing and practices, see **Chapter 1.5: Open Source** checklist, for more on it as an example of successful community communication, see **Chapter 6: Working with Community**. For more on its eventual long-run problems due to lack of sunset planning, see **Chapter 8: Handoffs and sunsets**]
+> For more on the Burton Street Project as an example of successful community communication, see [Chapter 6](Chapter06-Community.md). For more on its eventual long-run problems due to lack of sunset planning, see [Chapter 8](Chapter08-Handoffs-Sunsets.md).
 
 ### Code for Asheville Voter Education Tool
 
