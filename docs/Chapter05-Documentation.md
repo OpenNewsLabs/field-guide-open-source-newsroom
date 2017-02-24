@@ -1,8 +1,6 @@
 # Chapter 5: Documentation
 
-## Why document?
-
-![whyyyyy](https://media.opennews.org/fieldguides/open-sourcing/why.gif)
+![whyyyyy document](https://media.opennews.org/fieldguides/open-sourcing/why.gif)
 
 Most of developers have run into the situation where they have to update or upgrade an existing project and quickly discover the cost of figuring out how that code works. Documentation is key to reducing this cost. And many of us will admit that even working on code we wrote previously is like working on another person's code.
 

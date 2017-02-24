@@ -2,9 +2,7 @@
 
 **It's Never Too Late For Now**
 
-## I've Made An Error
-
-![i am error](https://media.opennews.org/fieldguides/open-sourcing/error.jpg)
+![i've made a huge mistake](https://media.opennews.org/fieldguides/open-sourcing/error.jpg)
 
 In [Chapter 2](Chapter02-Starting-New-Project.md), we talked about how to start a new open source project. You had buy-in to open source it from the beginning, and learned a lot along the way about identifying your audience, making sure there wasn't already a better solution out in the world, and the benefits of working in public.
 

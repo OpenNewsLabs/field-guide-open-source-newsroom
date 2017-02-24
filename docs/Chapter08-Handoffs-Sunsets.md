@@ -2,9 +2,7 @@
 
 **Hello darkness, my old friend**
 
-## Nothing Lives Forever
-
-![alas](https://media.opennews.org/fieldguides/open-sourcing/yorick.jpg)
+![nothing lives forever](https://media.opennews.org/fieldguides/open-sourcing/yorick.jpg)
 
 It is almost certain that you and your open source project will need to part ways. It's a perfectly natural part of the open-source lifecycle, and you shouldn't feel bad about it. But that doesn't make the process any easier. Endings don't write themselves, and your preparations for the end are like writing a will: They are not fun, but they will make a difficult time much smoother if you can prepare in advance. If you don't actively end your project or separate from it, you can leave current and potential users in the dark. This can lead to confusion or mistrust in you or your organization. Think about how much work you put into getting your project off the ground; shutting down your project should take about this much work, possibly more. But fear not, planning for succession can make a big difference in how easily the transition occurs. 
 

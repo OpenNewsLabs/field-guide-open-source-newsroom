@@ -2,8 +2,6 @@
 
 **In The Beginning ...**
 
-## Let's Get It Started
-
 Congratulations, now you've got buy-in from your organization! Your internal stakeholders, bosses, and team are totally cool with what you have planned. You do have a plan, right?
 
 Don't be scared.  It is usual to be nervous about putting your code out into the world for anyone to come by and tell you how wrong you are or how tabs are better than spaces.  Open source, emotionally, is not always easy; as with many things on the internet, it allows people to semi-anonymously tell you about your flaws.  It's important to keep in mind that 1) you likely made a mistake or two, and 2) everyone makes mistakes.  Try not to take things personally and view all comments as happy little constructive criticism there to make things better.  As you do more open source, both starting and contributing, you will feel more confident and less concerned with the inevitable mistakes.
@@ -13,7 +11,7 @@ Don't be scared.  It is usual to be nervous about putting your code out into the
 
 >The lesson I learned early on when doing open source work is don't take things too seriously.
 
-> *- by Alan Palazzolo*
+> *- Alan Palazzolo*
 
 
 This chapter will talk you through starting a new open source project, discussing first steps and introducing big to-dos and potential pitfalls/challenges.
