@@ -1,7 +1,5 @@
 # The Field Guide to Open Source in the Newsroom
 
-## About
-
 Journalists who work with code know how open-source projects pay off. When we share tools that solve common problems, we work faster and spend more time covering the news. Releasing projects to the public puts more eyes on our code, and makes it better.
 
 Doing that work isn't easy, though. Newsroom deadlines often don't leave time for cleanup and documentation, much less the planning that leads to reusable code. In newsrooms where open source isn't the norm, it can be hard to make the case for "giving away" your work. A common set of cultural and technical questions come up before, during, and after every open-source release-but as a community we don't have a common pool of answers.
@@ -26,7 +24,6 @@ Want to know more about this guidebook? Have a question about open-sourcing a ne
 ## Contributing
 
 This is a community resource, and it gets better every time anyone from the journalism-code community shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project, and [here's how you can join in](CONTRIBUTING.md).
-
 
 ## Authors
 
@@ -57,3 +54,6 @@ The following people have contributed to this guidebook:
 * Ryan Pitts
 * Lindsay Muscato
 * Erin Kissane
+
+
+
