@@ -1,6 +1,6 @@
 site_name: The Field Guide to Open Source in the Newsroom
 pages:
-    - Home: README.md
+    - Home: INTRODUCTION.md
     - Chapter 1 - Choosing Open Source, Getting Buy-In: docs/Chapter01-Choosing-Open-Source.md
     - Chapter 2 - Starting a New Project: docs/Chapter02-Starting-New-Project.md
     - Chapter 3 - Opening Up An Existing Project: docs/Chapter03-Existing-Projects.md
