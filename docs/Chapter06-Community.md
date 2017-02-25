@@ -228,4 +228,13 @@ Dealing with issue/ticket spam? [TODO: examples of orgs who open sourced editori
 
 ## Checklist
 
-[TODO: add a checklist]
+- [ ] Have a code of conduct
+- [ ] Discuss who will enforce the code of conduct and how they will do it
+- [ ] Share your project's styleguide if you use one
+- [ ] Work with editors to develop a verification process, if needed
+- [ ] Have and publicize channels of communication (IRC channel, Slack, mailing list, issue tracker, etc.)
+- [ ] Write a contribution document (e.g. CONTRIBUTING.md)
+- [ ] Make sure your community members know your preferred method of communication, how to submit bug reports and what a good bug report should contain. 
+- [ ] Credit contributors
+
+[TODO: make sure checklist covers current chapter]
