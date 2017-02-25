@@ -158,4 +158,20 @@ Here's a great overview of getting to the first release:
 
 ## Checklist
 
-[TODO: add a checklist]
+- [ ] Use version control
+- [ ] Use a public bug tracker for TODOs
+- [ ] Consider what you actually need for a minimum project
+- [ ] Write a clear and informative README file
+- [ ] Write a separate CONTRIBUTING file
+- [ ] Consider using dependency management tools, Docker, etc. to help people get started contributing faster
+- [ ] Note where users and contributors can submit issues
+- [ ] Use issue templates on Github
+- [ ] Make sure your releases have a version associated with them
+- [ ] Provide an installable version (app or package)
+- [ ] Make the package available from the associated package manager
+- [ ] Determine which frameworks and dependencies are stable and popular in your users' community and consider using them
+- [ ] Avoid putting sensitive data into the repository
+- [ ] Cryptographically sign packages and/or individual commits with GPG
+- [ ] Write automated tests so you can change code confidently
+- [ ] Use continuous integration
+- [ ] Consider using document generation tools
