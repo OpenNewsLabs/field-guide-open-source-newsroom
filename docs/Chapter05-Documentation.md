@@ -164,4 +164,19 @@ The NPR Visuals team and the Institute for Nonprofit News both use onboarding as
 
 ## Checklist
 
-[TODO: add a checklist]
+- [ ] Decide on the scope of the documentation
+- [ ] Decide where you will host your documentation
+- [ ] Decide who you're writing your documentation for (users, new contributors, experienced contributors, etc.)
+- [ ] Write a README that contains: 
+    - a project summary
+    - installation instructions
+    - how to run the project
+    - future plans for the project 
+    - how to contribute to the project (or a link to your CONTRIBUTING file)
+    - credits
+- [ ] If documentation is hosted elsewhere, put a minimal README that links to it with the code
+- [ ] Use code comments
+- [ ] Write clear commit messages
+- [ ] Document differences between running development code and production code
+- [ ] Write example or tutorial code
+- [ ] Document debugging resources (logging, frequent errors, how to run tests)
