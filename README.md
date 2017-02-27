@@ -19,6 +19,17 @@ But we're building one together. This guidebook collects the advice and experien
 * [Contribute to this guide](/docs/contributing.md)
 * [Help](/docs/help.md)
 
+## More Resources
+
+The Field Guide to Open Source in the Newsroom is written by people who care about journalism, specifically to address the cultural and technical challenges faced by developers who work in newsrooms. There are other wonderful guidebooks to open-sourcing
+
+* [Open Source Guides](https://opensource.guide/) from GitHub
+* ["Producing Open Source Software"](http://producingoss.com/) by Karl Fogel
+
+There's also a companion tool to this guidebook. Open Project Linter is an automated checklist you can use to test project directories for good practices in documentation and code. (And it's an open-source project you can contribute to as well!)
+
+* [Open Project Linter](https://github.com/OpenNewsLabs/open-project-linter)
+
 ## Contact
 
 Want to know more about this guidebook? Have a question about open-sourcing a newsroom project? Reach out to [fieldguide@opennews.org](mailto:fieldguide@opennews.org).
