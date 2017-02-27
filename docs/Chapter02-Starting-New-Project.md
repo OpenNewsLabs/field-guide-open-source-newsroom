@@ -70,19 +70,15 @@ There are many licenses to choose from, and you should pick the one that is best
 
 The licenses talked about so far have been focused on how code can be used, but if you are working with something other than primarily code, there are more appropriate licenses. [TODO: more on why one would use a license for non-code projects]
 
-The most common is Creative Commons, which is a suite of licenses made to be easy to understand and mixed depending on your needs. Creative Commons is mostly used for media or content, such as text, images, or videos.
+The most common is [Creative Commons](https://creativecommons.org/share-your-work/), which is a suite of licenses made to be easy to understand and mixed depending on your needs. Creative Commons is mostly used for media or content, such as text, images, or videos.
 
-[https://creativecommons.org/share-your-work/](https://creativecommons.org/share-your-work/)
-
-The Open Data Commons is similar to Creative Commons but is focused on data.  OpenStreetMap, a very successful open data project, uses the ODbl license.
-
-[http://opendatacommons.org/](http://opendatacommons.org/)
+The [Open Data Commons](http://opendatacommons.org/) is similar to Creative Commons but is focused on data.  OpenStreetMap, a very successful open data project, uses the ODbl license.
 
 ### Copyright
 
 It's important to note that licensing a open source project does not mean that you are giving away your copyright to that material, personally or as an organization (depending on how copyright works at your organization).  A license is basically answering the question of "Can I use this? And how?" for everyone.
 
-On the flip side, any contributions by other people or organizations are still copyright to those contributors.  If your project becomes large enough, it may be worth looking into a Contributor License Agreement ([https://en.wikipedia.org/wiki/Contributor_License_Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)), so that both the project and the contributor have more defined rights/roles.
+On the flip side, any contributions by other people or organizations are still copyright to those contributors.  If your project becomes large enough, it may be worth looking into a [Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement), so that both the project and the contributor have more defined rights/roles.
 
 ## Know Your Audience
 
@@ -102,7 +98,7 @@ Spend some time searching for similar projects in the wider news nerd community,
 
 ## More on Getting Started
 
-* [http://producingoss.com/en/getting-started.html](http://producingoss.com/en/getting-started.html) 
+* "Producing Open Source Software," by Karl Fogel. [Chapter 2: Getting Started](http://producingoss.com/en/getting-started.html) 
 
 ## What's Next
 

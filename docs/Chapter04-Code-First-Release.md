@@ -28,25 +28,25 @@ There are several version control systems you can use to host your repository, b
 
 Especially if you're going to be the maintainer on a code level, [learn to use Git beyond just push and pull](https://www.harihareswara.net/sumana/2014/10/31/0). 
 
-Here's a basic Git lesson: [https://openhatch.org/missions/git](https://openhatch.org/missions/git) 
-
-Clone a repo of a project you don't care about and try the more advanced commands as you make little changes to the code, so if you ruin everything you haven't actually set your own work back. 
+Here's a [basic Git lesson](https://openhatch.org/missions/git), for example. Clone a repo of a project you don't care about and try the more advanced commands as you make little changes to the code, so if you ruin everything you haven't actually set your own work back. 
 
 Learn to branch and merge and work with remotes and cherry-pick and bisect. Read [this super useful explanation of the Git model](http://web.mit.edu/nelhage/Public/git-slides-2009.pdf), which articulates what's actually doing what—it helps.  
 
 More resources:
 
-* Why you want to work in branches and how to do so: [http://producingoss.com/en/vc.html#branches](http://producingoss.com/en/vc.html#branches)
+* [Why you want to work in branches and how to do so](http://producingoss.com/en/vc.html#branches)
 
-* A successful Git branching model: [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/)
+* [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Helping others contribute
 
 Help people figure out how to contribute to your project.  One of the many benefits of open source is getting others to look at and improve your code.  It's important to make this process as easy as possible by specifically documenting how to do it.  A few ways to make this happen:
 
-* **Focus on good documentation and contributor's guidelines.** See Chapter 5 for lots more about this.
+* **Focus on good documentation and contributor's guidelines.** See [Chapter 5](/docs/Chapter05-Documentation.md) for lots more about this.
 
-* **Things like dependency management**, Docker, etc., are good technologies to help people get contributing faster. [TODO: more examples here]
+* **Things like dependency management**, Docker, etc., are good technologies to help people get contributing faster.
+
+* [TODO: more examples here]
 
 ## Tracking issues
 
@@ -114,7 +114,7 @@ Use what your users need-if it's an app, put it in the Apple App Store or the Go
 </table>
 
 
-More details on how to deal with rare cases and little questions of procedure: [http://producingoss.com/en/packaging.html](http://producingoss.com/en/packaging.html)
+More details on how to deal with [rare cases and little questions of procedure](http://producingoss.com/en/packaging.html).
 
 ## Dependencies
 
@@ -136,21 +136,21 @@ More automated tests in/for your codebase are better, because they reduce regres
 
 Some resources on debugging:
 
-* Systematic Debugging: [http://akaptur.com/blog/2013/07/24/systematic-debugging/](http://akaptur.com/blog/2013/07/24/systematic-debugging/)
+* [Systematic Debugging](http://akaptur.com/blog/2013/07/24/systematic-debugging/)
 
-* Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History: [https://www.harihareswara.net/sumana/2016/10/12/0](https://www.harihareswara.net/sumana/2016/10/12/0) 
+* [Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History](https://www.harihareswara.net/sumana/2016/10/12/0) 
 
-Here are some document generation tools for different languages:
+There are even some automated document-generation tools that can give you a head start on documentation. For example:
 
-* Doxygen - Java, 
+* Doxygen (Java)
 
-* Pydoc
+* Pydoc (Python)
 
-* Swagger
-
-[TODO: identify more documentation tools]
+* Swagger (RESTful APIs)
 
 [TODO: info on identifying common bugs, errors, and user errors]
+
+## More resources
 
 Here's a great overview of getting to the first release:
 

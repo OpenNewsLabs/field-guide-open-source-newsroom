@@ -2,7 +2,7 @@
 
 Before your project even begins—before you start thinking about documentation, languages or contributor guidelines—figure out whether you need to get support for your open source project within your newsroom. Establishing buy-in creates a culture where open source projects, big and small, are valued and supported. And it builds a solid foundation for ambitious open source projects to succeed in the long term. 
 
-Often this means convincing people in different levels of leadership that your involvement in open source software is worth both time and resources. Specifically, you'll need to convince other people that the upsides are greater than the downsides. When making your case, you can clearly identify both, and determine a time period after when you'll evaluate your involvement in the project. 
+Often this means convincing people in different levels of leadership that your involvement in open source software is worth both time and resources. Specifically, you'll need to convince other people that the upsides are greater than the downsides. When making your case, you can clearly identify both, and determine a time period after when you'll evaluate your involvement in the project.
 
 ## Who needs to be on board? 
 
@@ -42,11 +42,11 @@ The following lists have been paraphrased from community suggestions, as well as
 
 * **The value of redundancy and distributability. **The more we open source—especially data—the more resources we're able to give journalists to do their jobs. Further, the more distributed one particular resource is, the less likely it is to be deleted or entirely censored by some outside force.
 
-To round out this list, here are a few more resources:
+To round out this list, here are a couple more resources:
 
-* On the value of working in the open: [http://www.poynter.org/2011/6-reasons-journalists-should-show-your-work-while-learning-creating/150243/](http://www.poynter.org/2011/6-reasons-journalists-should-show-your-work-while-learning-creating/150243/)
+* [On the value of working in the open](http://www.poynter.org/2011/6-reasons-journalists-should-show-your-work-while-learning-creating/150243/)
 
-* How open source infrastructure added value to Instagram: [https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681#.opxzo84x0](https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681#.opxzo84x0)
+* [How open source infrastructure added value to Instagram](https://medium.com/@nayafia/open-source-was-worth-at-least-143m-of-instagram-s-1b-acquisition-808bb85e4681#.opxzo84x0)
 
 ## Questions and misconceptions about open sourcing
 
@@ -62,7 +62,7 @@ These departments are generally concerned with the public face of the organizati
 
 You can say:
 
-* "Let's talk through the license options and figure out which one is best for our needs" (See Chapter 2 for more information on choosing a license.)
+* "Let's talk through the license options and figure out which one is best for our needs" (See [Chapter 2](/docs/Chapter02-Starting-New-Project.md) for more information on choosing a license.)
 
 * "The [license we chose] gives us cover for _______ and ______. That should assuage any concerns about liability."
 
@@ -84,7 +84,7 @@ You can say:
 
 * "Open sourcing a project helps us stake a claim to our idea early. It shows that we're leaders in our field and we help move the industry forward."
 
-* "We'll establish a clear set of guidelines for both code contribution and community conduct, in order to make sure the project maintains the rigorous standards of our organization." (See Chapter 6 for more information on how to do this.)
+* "We'll establish a clear set of guidelines for both code contribution and community conduct, in order to make sure the project maintains the rigorous standards of our organization." (See [Chapter 6](/docs/Chapter06-Community.md) for more information on how to do this.)
 
 *How do we make sure proprietary information is not part of the open source release?*
 
@@ -300,13 +300,13 @@ Code for Asheville (CoA) sought to build an open source voting tool for the 2016
 
 ### More resources 
 
-* Building smart newsroom tools by Melody Kramer [https://source.opennews.org/en-US/learning/building-smart-newsroom-tools/](https://source.opennews.org/en-US/learning/building-smart-newsroom-tools/)
+* [Building smart newsroom tools by Melody Kramer](https://source.opennews.org/en-US/learning/building-smart-newsroom-tools/)
 
-* Good Code Runs on Good Communication [https://source.opennews.org/en-US/articles/code-runs-communication/](https://source.opennews.org/en-US/articles/code-runs-communication/)
+* [Good Code Runs on Good Communication](https://source.opennews.org/en-US/articles/code-runs-communication/)
 
-* How the LA Times Transformed Its Publishing … [https://source.opennews.org/en-US/articles/how-los-angeles-times-transformed-its-publishing-t/](https://source.opennews.org/en-US/articles/how-los-angeles-times-transformed-its-publishing-t/)
+* [How The Los Angeles Times Transformed its Publishing Tools with a UX Design Approach](https://source.opennews.org/en-US/articles/how-los-angeles-times-transformed-its-publishing-t/)
 
-* Four reasons why an open-source newsroom is harder than it looks: Lessons from Al Jazeera [http://www.niemanlab.org/2012/09/four-reasons-why-an-open-source-newsroom-is-harder-than-it-looks-lessons-from-al-jazeera/](http://www.niemanlab.org/2012/09/four-reasons-why-an-open-source-newsroom-is-harder-than-it-looks-lessons-from-al-jazeera/)
+* [Four reasons why an open-source newsroom is harder than it looks: Lessons from Al Jazeera](http://www.niemanlab.org/2012/09/four-reasons-why-an-open-source-newsroom-is-harder-than-it-looks-lessons-from-al-jazeera/)
 
 # Conclusion
 

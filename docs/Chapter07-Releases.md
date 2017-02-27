@@ -22,11 +22,11 @@ First, a word on version numbers. [Version numbers](http://producingoss.com/en/d
 
 ## Roadmap and release planning
 
-Make public announcements about the state of your project! Including if you choose to stop maintaining it (see Chapter 8); it happens, it's OK, just tell the world. Keeping users up-to-date helps you ask contributors for help that will be effective.
+Make public announcements about the state of your project! Including if you choose to stop maintaining it (see [Chapter 8](/docs/Chapter08-Handoffs-Sunsets.md)); it happens, it's OK, just tell the world. Keeping users up-to-date helps you ask contributors for help that will be effective.
 
 Roadmap examples: 
 
-* [https://zulip.readthedocs.io/en/latest/roadmap.html](https://zulip.readthedocs.io/en/latest/roadmap.html)
+* [Zulip roadmap](https://zulip.readthedocs.io/en/latest/roadmap.html)
 
 * [TODO: more roadmap examples]
 
@@ -46,33 +46,23 @@ This means you should by default be [using the open source version in your own n
 
 You may think people want to see a new release every week-and some people may. But if you intend to keep improving a project, it's more important to just demonstrate consistent attention. Consider what makes the most sense for your project and team: time-based releases (e.g. every couple of months), or feature-based (trying to finish a particular feature before the release is done).
 
-> From WordPress.org:
-
-> "Deadlines are not arbitrary, they're a promise we make to ourselves and our users that helps us rein in the endless possibilities of things that could be a part of every release. We aspire to release three major versions a year because through trial and error we've found that to be a good balance between getting cool stuff in each release and not so much that we end up breaking more than we add."
-
-> Good deadlines almost always make you trim something from a release. This is not a bad thing, it's what they're supposed to do.
-
-> The route of delaying a release for that one-more-feature is a rabbit hole. We did that for over a year once, and it wasn't pleasant for anybody.
-
-> The more frequent and regular releases are, the less important it is for any particular feature to be in this release. If it doesn't make it for this one, it'll just be a few months before the next one. When releases become unpredictable or few and far between, there's more pressure to try and squeeze in that one more thing because it's going to be so long before the next one. Delay begets delay." - [https://wordpress.org/about/philosophy/](https://wordpress.org/about/philosophy/) 
+> "Deadlines are not arbitrary, they're a promise we make to ourselves and our users that helps us rein in the endless possibilities of things that could be a part of every release. ... The more frequent and regular releases are, the less important it is for any particular feature to be in this release. If it doesn't make it for this one, it'll just be a few months before the next one. When releases become unpredictable or few and far between, there's more pressure to try and squeeze in that one more thing because it's going to be so long before the next one. Delay begets delay." - [WordPress](https://wordpress.org/about/philosophy/) 
 
 [TODO: more case studies on release management]
 
 ## Checklist
 
-A checklist could include:
+A release checklist could include:
 
 * [ ] Sanitize secrets and personally identifiable information (See [Chapter 4](Chapter04-Code-First-Release.md))
 
 * [ ] Summarize the changes you've made since the last release (refer to logs in the source control system, like Git, and do a search in your bug tracker), emphasizing changes that fix security vulnerabilities or will require your users to change their workflows or software/hardware setups
 
-    * USE MILESTONES! Assigning issues and merged pull requests to milestones make it super easy to review what was changed
-
-    * [https://github.com/wp-cli/wp-cli/milestone/48?closed=1](https://github.com/wp-cli/wp-cli/milestone/48?closed=1)
+    * USE MILESTONES! Assigning issues and merged pull requests to milestones make it super easy to review what was changed. ([Example](https://github.com/wp-cli/wp-cli/milestone/48?closed=1))
 
 * [ ] Make a list of important known problems with this release in particular—for each known issue, point to the relevant bug in your public bug tracker
 
-* [ ] Make a list of who all contributed to those changes (decide whether this includes, for you, people who contributed bug reports, mailing list posts, etc.) This might eventually be useful: [https://github.com/github/hub/issues/1355](https://github.com/github/hub/issues/1355)
+* [ ] Make a list of who all contributed to those changes. Decide whether this includes, for you, people who contributed bug reports, mailing list posts, etc. ([Example](https://github.com/github/hub/issues/1355))
 
 * [ ] Add links for people to get the complete list of changes since the last release
 

@@ -22,7 +22,7 @@ One of the initial steps in documentation is to define the scope of the document
 
 *The where?*
 
-There are many choices for where your project's documentation could live—GitHub, your project website, Read the Docs ([https://readthedocs.org/](https://readthedocs.org/)), etc. Here's an example of Tarbell on Read the Docs, for example: [http://tarbell.readthedocs.io/en/latest/](http://tarbell.readthedocs.io/en/latest/).
+There are many choices for where your project's documentation could live—GitHub, your project website, [Read the Docs](https://readthedocs.org/), etc. Here's an example of [Tarbell on Read the Docs](http://tarbell.readthedocs.io/en/latest/), for example.
 
 [TODO: more about hosting documentation]
 
@@ -32,13 +32,13 @@ The audience for your project could be more than just your users. They could be 
 
 A few things to keep in mind: 
 
-* **Setting expectations is always better if it's done early**—in life, and in your open source project. Upfront, your documentation should answer the question: "What do I need to know to use this project?" It is also helpful to give a time estimate of how long it will take to set up and get the project running. Here's a great blog post on setting expectations: [https://pantheon.io/blog/still-maintained](https://pantheon.io/blog/still-maintained)
+* **Setting expectations is always better if it's done early**—in life, and in your open source project. Upfront, your documentation should answer the question: "What do I need to know to use this project?" It is also helpful to give a time estimate of how long it will take to set up and get the project running. Here's (https://pantheon.io/blog/still-maintained).
 
-* **Avoid or define jargon.** Link to documentation for dependencies, external libraries and technical terms. A glossary (eg: Github's glossary: [https://help.github.com/articles/github-glossary/](https://help.github.com/articles/github-glossary/)) can also ease the need to explain terminology. It is always a good practice to stay away from inside jokes and very deep cultural references that everyone may not get. While all the Arrested Development jokes in your documentation can make it refreshing for fans of the show, it could be confusing to others. That is not to say that all documentation and examples need to be bone dry. But being aware of the audience is great.
+* **Avoid or define jargon.** Link to documentation for dependencies, external libraries and technical terms. A glossary (e.g. [Github's glossary](https://help.github.com/articles/github-glossary/)) can also ease the need to explain terminology. It is always a good practice to stay away from inside jokes and very deep cultural references that everyone may not get. While all the Arrested Development jokes in your documentation can make it refreshing for fans of the show, it could be confusing to others. That is not to say that all documentation and examples need to be bone dry. But being aware of the audience is great.
 
-* **Think through the community's needs.** Good documentation acknowledges that the audience have different levels of need for detail. It may be a helpful exercise to identify the various audience groups for your project's documentation and separate them. For instance, documentation sections for users and administrators could be separated. E.g.: Panda Project: [http://pandaproject.net/docs/](http://pandaproject.net/docs/)
+* **Think through the community's needs.** Good documentation acknowledges that the audience have different levels of need for detail. It may be a helpful exercise to identify the various audience groups for your project's documentation and separate them. For instance, documentation sections for users and administrators could be separated (e.g. [Panda Project](http://pandaproject.net/docs/)).
 
-* **Recommend infrastructure.** Running code on your development machine is very different from running in production. A separate section about recommended infrastructure, deploying code to production, setting up caching, etc., could help. See Kinto project for an example of this: [http://kinto.readthedocs.io/en/stable/configuration/production.html](http://kinto.readthedocs.io/en/stable/configuration/production.html).
+* **Recommend infrastructure.** Running code on your development machine is very different from running in production. A separate section about recommended infrastructure, deploying code to production, setting up caching, etc., could help. See [Kinto project](http://kinto.readthedocs.io/en/stable/configuration/production.html) for an example of this.
 
 * **Note prerequisites.** If you have very specific prerequisites for your project, describe a way to check them. And do not assume that the reader knows their own machine setup. (For instance if you need a particular version of the library installed and your setup script does not handle it, document how to check it.)
 
@@ -74,11 +74,9 @@ There's no hard and fast rule that says your documentation has to live in a READ
 
 ### Make a CONTRIBUTING.md file
 
-This file explains how people can contribute to your project. Put it in the top of your repo's file hierarchy. Here are some examples: [https://github.com/nayafia/contributing-template](https://github.com/nayafia/contributing-template)
+This file explains how people can contribute to your project. Put it in the top of your repo's file hierarchy. Here are [some examples](https://github.com/nayafia/contributing-template).
 
-* A great benefit of this approach when using GitHub is that [GitHub will add a link](https://github.com/blog/1184-contributing-guidelines) to this document when someone opens an issue or pull request.
-
-* Example: [https://github.com/swcarpentry/git-novice/blob/gh-pages/CONTRIBUTING.md](https://github.com/swcarpentry/git-novice/blob/gh-pages/CONTRIBUTING.md)
+A great benefit of this approach when using GitHub is that [GitHub will add a link](https://github.com/blog/1184-contributing-guidelines) to this document when someone opens an issue or pull request. ([Example](https://github.com/swcarpentry/git-novice/blob/gh-pages/CONTRIBUTING.md))
 
 ### Comment wisely
 
@@ -86,7 +84,7 @@ Project documentation falls into three buckets—documentation for yourself, for
 
 Code comments and sensible variable naming are often the best way to document for yourself. Every developer has at least once asked themselves, "What was I thinking?" when reading code they wrote in the past. Your future self will thank you for the time you put into adding comments to the code.
 
-In addition to explaining what, the best commit messages also explain *why*. They do not rely on your memory of the context or repeat what the code does without adding any additional information.
+In addition to explaining what, the best commit messages also explain *why*. They do not rely on your memory of the context or repeat what the code does without adding any additional information. Here's an example of code comments acting as documentation:
 
 ```
 // Bad comment
@@ -98,7 +96,6 @@ const HOURS_IN_MARS_DAY = 24.623;
 // Calculate the number of full days spent on mars
 var daysOnMars = parseInt(timeSpentOnMars / HOURS_IN_MARS_DAY);
 ```
-Above: Example of code comments acting as documentation
 
 Code comments also help others working on the codebase with you use it better. It can be used to establish clear code reuse guidelines and set expectations at a granular level in the program.
 

@@ -18,7 +18,7 @@ In this chapter, we'll walk through the decisions you need to make when open-sou
 
 ## How Others Have Dealt With This
 
-Karl Fogel's excellent "Producing Open Source" [has an entire section](http://producingoss.com/en/opening-closed-projects.html) just on open-sourcing closed projects. Karl's work isn't specific to newsrooms but is globally useful for any open-source software project.
+Karl Fogel's excellent "Producing Open Source Software" [has an entire section](http://producingoss.com/en/opening-closed-projects.html) just on open-sourcing closed projects. Karl's work isn't specific to newsrooms but is globally useful for any open-source software project.
 
 # Practical Considerations Before You Start
 
@@ -36,7 +36,7 @@ A few resources:
 
 * Use a [project like Git Secrets](https://github.com/awslabs/git-secrets) from AWS to make sure you're not accidentally committing secrets to the open internet. And since your Git history could contain old instances of secrets in the repository, consider squashing your commit history before making your project public. 
 
-* Sanitize personally identifying information—use [https://github.com/emanuelfeld/poirot](https://github.com/emanuelfeld/poirot), a tool to search a repo's revision history for text patterns (e.g. passwords, tokens, configuration data, IP addresses, phone numbers, and names)—including sample data you are shipping with the code
+* Sanitize personally identifying information—use [Poirot](https://github.com/emanuelfeld/poirot), a tool to search a repo's revision history for text patterns (e.g. passwords, tokens, configuration data, IP addresses, phone numbers, and names)—including sample data you are shipping with the code
 
 If you're open-sourcing data, you absolutely want to be careful of this too, especially in the case of user data. Even when data *looks* like it's been anonymized, it can frequently be deanonymized (that is, matched back to the original user). 
 
@@ -58,7 +58,7 @@ You might find yourself in the position of open-sourcing a project that has been
 
 ## What form of collaboration are you interested in?
 
-Different projects require different forms of collaboration from the community. Perhaps your project is mature and you're really only looking for bug reports. But you might also have a project that's still so new that you're looking for help refining the developer interface. Do you expect pull requests for specific pieces? You should make sure to hint about where in the project you'd like people to help out. Are you looking for feedback about the core issues the project is expected to solve? You can make this clear by building a section in the README or making a series of tickets that address this concern. [TODO: link to contributing chapter]
+Different projects require different forms of collaboration from the community. Perhaps your project is mature and you're really only looking for bug reports. But you might also have a project that's still so new that you're looking for help refining the developer interface. Do you expect pull requests for specific pieces? You should make sure to hint about where in the project you'd like people to help out. Are you looking for feedback about the core issues the project is expected to solve? You can make this clear by building a section in the README or making a series of tickets that address this concern. (See [Chapter 5](/docs/Chapter05-Documentation.md) on documentation, and [Chapter 6](/docs/Chapter06-Community.md) on working with community.)
 
 ## Treat It Like A New Project
 

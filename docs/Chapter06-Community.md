@@ -30,7 +30,7 @@ In [Chapter 1](Chapter01-Choosing-Open-Source.md), we talked about how it's esse
 
 * How much should we communicate about the philosophy of code for the project? For example, the idea of "Pythonic," or the very specific way of building D3. 
 
-* What does the eventual timeline for the project look like, and how does community involvement play a role in that? Does the level of that involvement change over that timeline? (Also see Chapter 8)
+* What does the eventual timeline for the project look like, and how does community involvement play a role in that? Does the level of that involvement change over that timeline? (Also see [Chapter 8](/docs/Chapter08-Handoffs-Sunsets.md))
 
 ## More to consider upfront
 
@@ -80,7 +80,7 @@ There is also some inherent value in building things in the open. We build trust
 
 ### What kind of contributions will you accept?
 
-As a developer, when you open source your work you may be thinking that people will help improve your code, build new features, or check off items on your roadmap. But there are many more ways to contribute to an open source project. When you prepare to release your project, you'll want to think about what sorts of contributions you want and make sure [https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md](https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md) you communicate those needs clearly.
+As a developer, when you open source your work you may be thinking that people will help improve your code, build new features, or check off items on your roadmap. But there are many more ways to contribute to an open source project. When you prepare to release your project, you'll want to think about what sorts of contributions you want and make sure you communicate those needs clearly (see, for example, these [contributing guidelines from INN](https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md)).
 
 In general, and particularly as you're just starting to build a community around your project, no contribution is too small. Even submitting bug reports and feature requests is a great way for people to get involved. From there, some people might progress to helping with code review and quality assurance (QA) as a less-intimidating way to contribute to the codebase.
 
@@ -166,7 +166,7 @@ Open source projects are often the product of contributions by many individual h
 
 ### In-person get-togethers
 
-If your project includes contributors (paid or unpaid) from different cities, you should consider having in-person get-togethers a few times a year. Here's why, and how to make them productive: [https://modelviewculture.com/pieces/software-in-person](https://modelviewculture.com/pieces/software-in-person) 
+If your project includes contributors (paid or unpaid) from different cities, you should consider having in-person get-togethers a few times a year. [Here's why, and how to make them productive](https://modelviewculture.com/pieces/software-in-person).
 
 ## Accepting Editorial Contributions
 
@@ -180,7 +180,7 @@ If the project needs the involvement of a particular part of a community (say, a
 
 > Shortly after the project's release and the ensuing public pressure, the state Department of Transportation committed to drastically scaling back the number of homes that would be demolished in Burton Street and the topic has remained much more prominent in local discussions and politics ever since, in the process raising awareness of the area's de facto segregation. That's led to recognition by local government of the Burton Street Community Association and funds for them to develop their own plan for the future of their community. The project won some state and national multimedia awards.
 
-> For more on the Burton Street Project's coordination of multiple groups in a single effort, see [Chapter 1](Chapter01-Choosing-Open-Source.md). For more on its eventual long-run problems due to lack of sunset planning, see Chapter 8.
+> For more on the Burton Street Project's coordination of multiple groups in a single effort, see [Chapter 1](Chapter01-Choosing-Open-Source.md). For more on its eventual long-run problems due to lack of sunset planning, see [Chapter 8](/docs/Chapter08-Handoffs-Sunsets.md).
 
 ### Verification
 
@@ -236,5 +236,3 @@ Dealing with issue/ticket spam? [TODO: examples of orgs who open sourced editori
 - [ ] Write a contribution document (e.g. CONTRIBUTING.md)
 - [ ] Make sure your community members know your preferred method of communication, how to submit bug reports and what a good bug report should contain. 
 - [ ] Credit contributors
-
-[TODO: make sure checklist covers current chapter]

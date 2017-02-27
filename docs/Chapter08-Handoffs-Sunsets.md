@@ -124,7 +124,7 @@ If there isn't a natural set of maintainers for your project, you might consider
 
 * Update the README with a clear indicator of the project status:
 
-    * Badges: [https://github.com/badges/stability-badges](https://github.com/badges/stability-badges)
+    * [Badges](https://github.com/badges/stability-badges)
 
     * A "this is no longer actively maintained" message.
 
@@ -132,9 +132,9 @@ If there isn't a natural set of maintainers for your project, you might consider
 
 * Python: In PyPi, set the development status to 7 -- Inactive
 
-* Python: How to deprecate a module [https://www.python.org/dev/peps/pep-0004/](https://www.python.org/dev/peps/pep-0004/)
+* Python: [How to deprecate a module](https://www.python.org/dev/peps/pep-0004/)
 
-* Ruby: [https://www.ruby-toolbox.com/categories/Deprecation_Tools](https://www.ruby-toolbox.com/categories/Deprecation_Tools) (ironically, one of the most-used Ruby deprecation tools has itself been abandoned)
+* Ruby: [Deprecation Tools](https://www.ruby-toolbox.com/categories/Deprecation_Tools) (ironically, one of the most-used Ruby deprecation tools has itself been abandoned)
 
 * [TODO: further advice for other languages and platforms]
 
@@ -181,19 +181,19 @@ If you didn't answer yes to any of those questions, you might consider killing o
     <td>Python</td>
     <td>PyPi</td>
     <td></td>
-    <td>http://stackoverflow.com/questions/20403387/how-to-remove-a-package-from-pypi</td>
+    <td>[On removing a package from PyPi](http://stackoverflow.com/questions/20403387/how-to-remove-a-package-from-pypi)</td>
   </tr>
   <tr>
     <td>Node.js</td>
     <td>NPM</td>
     <td>npm unpublish</td>
-    <td>https://docs.npmjs.com/cli/unpublish</td>
+    <td>[On unpublishing](https://docs.npmjs.com/cli/unpublish)</td>
   </tr>
   <tr>
     <td>Ruby</td>
     <td>Ruby Gems</td>
     <td>gem yank</td>
-    <td>http://blog.rubygems.org/2015/04/13/permadelete-on-yank.html</td>
+    <td>[On gem yank](http://blog.rubygems.org/2015/04/13/permadelete-on-yank.html)</td>
   </tr>
 </table>
 
