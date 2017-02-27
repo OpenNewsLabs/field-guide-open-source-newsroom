@@ -4,7 +4,7 @@ Journalists who work with code know how open-source projects pay off. When we sh
 
 Doing that work isn't easy, though. Newsroom deadlines often don't leave time for cleanup and documentation, much less the planning that leads to reusable code. In newsrooms where open source isn't the norm, it can be hard to make the case for "giving away" your work. A common set of cultural and technical questions come up before, during, and after every open-source release-but as a community we don't have a common pool of answers.
 
-But we're building one together. This guidebook collects the advice and experience of dozens of newsroom developers and technologists, covering the entire open-sourcing process—from starting a project to handoffs and sunsets—in the context of journalism. It's a collaborative resource that will continue to grow, and we'd love to see you use it, [contribute your experience](docs/contributing.md), and share the great work you're doing with the community of developers, designers, and data analysts in newsrooms everywhere.
+But we're building one together. This guidebook collects the advice and experience of dozens of newsroom developers and technologists, covering the entire open-sourcing process—from starting a project to handoffs and sunsets—in the context of journalism. It's a collaborative resource that will continue to grow, and we'd love to see you use it, [contribute your experience](/docs/contributing.md), and share the great work you're doing with the community of developers, designers, and data analysts in newsrooms everywhere.
 
 ## Table of Contents
 
@@ -16,6 +16,8 @@ But we're building one together. This guidebook collects the advice and experien
 * [Chapter 6: Working With Community](/docs/Chapter06-Community.md)
 * [Chapter 7: Managing Releases](/docs/Chapter07-Releases.md)
 * [Chapter 8: Handoffs and Sunsets](/docs/Chapter08-Handoffs-Sunsets.md)
+* [Contribute to this guide](/docs/contributing.md)
+* [Help](/docs/help.md)
 
 ## Contact
 
@@ -23,8 +25,7 @@ Want to know more about this guidebook? Have a question about open-sourcing a ne
 
 ## Contributing
 
-This is a community resource, and it gets better every time anyone from the journalism-code community shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project, and [here's how you can join in](docs/contributing.md).
-
+This is a community resource, and it gets better every time anyone from the journalism-code community shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project, and [here's how you can join in](/docs/contributing.md).
 
 ## Authors
 
