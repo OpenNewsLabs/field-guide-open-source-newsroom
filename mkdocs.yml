@@ -9,5 +9,6 @@ pages:
     - Chapter 6 - Working With Community: Chapter06-Community.md
     - Chapter 7 - Managing Releases: Chapter07-Releases.md
     - Chapter 8 - Handoffs & Sunsets: Chapter08-Handoffs-Sunsets.md
+    - Contributing: contributing.md
     - Help: help.md
 theme: readthedocs
