@@ -62,7 +62,7 @@ These departments are generally concerned with the public face of the organizati
 
 You can say:
 
-* "Let's talk through the license options and figure out which one is best for our needs" (See [Chapter 2](/docs/Chapter02-Starting-New-Project.md) for more information on choosing a license.)
+* "Let's talk through the license options and figure out which one is best for our needs" (See [Chapter 2](Chapter02-Starting-New-Project.md) for more information on choosing a license.)
 
 * "The [license we chose] gives us cover for _______ and ______. That should assuage any concerns about liability."
 
@@ -84,7 +84,7 @@ You can say:
 
 * "Open sourcing a project helps us stake a claim to our idea early. It shows that we're leaders in our field and we help move the industry forward."
 
-* "We'll establish a clear set of guidelines for both code contribution and community conduct, in order to make sure the project maintains the rigorous standards of our organization." (See [Chapter 6](/docs/Chapter06-Community.md) for more information on how to do this.)
+* "We'll establish a clear set of guidelines for both code contribution and community conduct, in order to make sure the project maintains the rigorous standards of our organization." (See [Chapter 6](Chapter06-Community.md) for more information on how to do this.)
 
 *How do we make sure proprietary information is not part of the open source release?*
 

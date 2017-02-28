@@ -58,7 +58,7 @@ You might find yourself in the position of open-sourcing a project that has been
 
 ## What form of collaboration are you interested in?
 
-Different projects require different forms of collaboration from the community. Perhaps your project is mature and you're really only looking for bug reports. But you might also have a project that's still so new that you're looking for help refining the developer interface. Do you expect pull requests for specific pieces? You should make sure to hint about where in the project you'd like people to help out. Are you looking for feedback about the core issues the project is expected to solve? You can make this clear by building a section in the README or making a series of tickets that address this concern. (See [Chapter 5](/docs/Chapter05-Documentation.md) on documentation, and [Chapter 6](/docs/Chapter06-Community.md) on working with community.)
+Different projects require different forms of collaboration from the community. Perhaps your project is mature and you're really only looking for bug reports. But you might also have a project that's still so new that you're looking for help refining the developer interface. Do you expect pull requests for specific pieces? You should make sure to hint about where in the project you'd like people to help out. Are you looking for feedback about the core issues the project is expected to solve? You can make this clear by building a section in the README or making a series of tickets that address this concern. (See [Chapter 5](Chapter05-Documentation.md) on documentation, and [Chapter 6](Chapter06-Community.md) on working with community.)
 
 ## Treat It Like A New Project
 

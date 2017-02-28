@@ -22,7 +22,7 @@ First, a word on version numbers. [Version numbers](http://producingoss.com/en/d
 
 ## Roadmap and release planning
 
-Make public announcements about the state of your project! Including if you choose to stop maintaining it (see [Chapter 8](/docs/Chapter08-Handoffs-Sunsets.md)); it happens, it's OK, just tell the world. Keeping users up-to-date helps you ask contributors for help that will be effective.
+Make public announcements about the state of your project! Including if you choose to stop maintaining it (see [Chapter 8](Chapter08-Handoffs-Sunsets.md)); it happens, it's OK, just tell the world. Keeping users up-to-date helps you ask contributors for help that will be effective.
 
 Roadmap examples: 
 

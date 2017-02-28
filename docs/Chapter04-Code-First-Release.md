@@ -42,7 +42,7 @@ More resources:
 
 Help people figure out how to contribute to your project.  One of the many benefits of open source is getting others to look at and improve your code.  It's important to make this process as easy as possible by specifically documenting how to do it.  A few ways to make this happen:
 
-* **Focus on good documentation and contributor's guidelines.** See [Chapter 5](/docs/Chapter05-Documentation.md) for lots more about this.
+* **Focus on good documentation and contributor's guidelines.** See [Chapter 5](Chapter05-Documentation.md) for lots more about this.
 
 * **Things like dependency management**, Docker, etc., are good technologies to help people get contributing faster.
 

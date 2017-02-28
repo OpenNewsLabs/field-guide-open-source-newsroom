@@ -30,7 +30,7 @@ In [Chapter 1](Chapter01-Choosing-Open-Source.md), we talked about how it's esse
 
 * How much should we communicate about the philosophy of code for the project? For example, the idea of "Pythonic," or the very specific way of building D3. 
 
-* What does the eventual timeline for the project look like, and how does community involvement play a role in that? Does the level of that involvement change over that timeline? (Also see [Chapter 8](/docs/Chapter08-Handoffs-Sunsets.md))
+* What does the eventual timeline for the project look like, and how does community involvement play a role in that? Does the level of that involvement change over that timeline? (Also see [Chapter 8](Chapter08-Handoffs-Sunsets.md))
 
 ## More to consider upfront
 
@@ -46,11 +46,11 @@ Check in with any existing partners and make sure everyone's on the same page. T
 
 Having a contributor code of conduct from the start can help show your commitment to anti-harassment, avoid future rules-lawyering around what is or isn't harassment, and help you shut down toxic behavior fast. More on the importance of a code of conduct and the ways to adopt a successful one can be found here:
 
-* [https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
+* Christie Koehler: [The complex reality of adopting a meaningful code of conduct](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/)
 
-* [https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md](https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md)
+* INN: [Code of conduct and how to contribute](https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md)
 
-* [https://github.com/voxmedia/open-source-contribution-guidelines](https://github.com/voxmedia/open-source-contribution-guidelines)
+* Vox Media: [Contributing to a Vox Media open source project](https://github.com/voxmedia/open-source-contribution-guidelines)
 
 For more example contributor codes of conduct, check out the [Contributor Covenant](http://contributor-covenant.org/) or the examples [listed here](http://geekfeminism.wikia.com/wiki/Code_of_conduct).
 
@@ -180,7 +180,7 @@ If the project needs the involvement of a particular part of a community (say, a
 
 > Shortly after the project's release and the ensuing public pressure, the state Department of Transportation committed to drastically scaling back the number of homes that would be demolished in Burton Street and the topic has remained much more prominent in local discussions and politics ever since, in the process raising awareness of the area's de facto segregation. That's led to recognition by local government of the Burton Street Community Association and funds for them to develop their own plan for the future of their community. The project won some state and national multimedia awards.
 
-> For more on the Burton Street Project's coordination of multiple groups in a single effort, see [Chapter 1](Chapter01-Choosing-Open-Source.md). For more on its eventual long-run problems due to lack of sunset planning, see [Chapter 8](/docs/Chapter08-Handoffs-Sunsets.md).
+> For more on the Burton Street Project's coordination of multiple groups in a single effort, see [Chapter 1](Chapter01-Choosing-Open-Source.md). For more on its eventual long-run problems due to lack of sunset planning, see [Chapter 8](Chapter08-Handoffs-Sunsets.md).
 
 ### Verification
 
