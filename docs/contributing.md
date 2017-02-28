@@ -48,4 +48,4 @@ Instances of abuse, harassment, or other unacceptable behavior may be reported b
 
 ## Attribution
 
-Language on welcoming all communities adapted from the ([agate project](https://github.com/wireservice/agate/blob/1.5.5/docs/contributing.rst)). Code of conduct adapted from [SRCCON](https://srccon.org/conduct/) and [INN](https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md).
+Language on welcoming all communities adapted from the [agate project](https://github.com/wireservice/agate/blob/1.5.5/docs/contributing.rst). Code of conduct adapted from [SRCCON](https://srccon.org/conduct/) and [INN](https://github.com/INN/docs/blob/master/how-to-work-with-us/contributing.md).
