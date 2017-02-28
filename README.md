@@ -4,7 +4,13 @@ Journalists who work with code know how open-source projects pay off. When we sh
 
 Doing that work isn't easy, though. Newsroom deadlines often don't leave time for cleanup and documentation, much less the planning that leads to reusable code. In newsrooms where open source isn't the norm, it can be hard to make the case for "giving away" your work. A common set of cultural and technical questions come up before, during, and after every open-source release-but as a community we don't have a common pool of answers.
 
-But we're building one together. This guidebook collects the advice and experience of dozens of newsroom developers and technologists, covering the entire open-sourcing process—from starting a project to handoffs and sunsets—in the context of journalism. It's a collaborative resource that will continue to grow, and we'd love to see you use it, [contribute your experience](docs/contributing.md), and share the great work you're doing with the community of developers, designers, and data analysts in newsrooms everywhere.
+But we can build one together.
+
+## About this Guide
+
+This guidebook collects the advice and experience of dozens of newsroom developers and technologists, covering the entire open-sourcing process—from starting a project to handoffs and sunsets—in the context of journalism. It's a collaborative resource that will continue to grow. We'd love to have you contribute, and [share the great work you're doing](docs/contributing.md) with the rest of the journalism-code community.
+
+The guidebook is hosted by [OpenNews](https://opennews.org/), a team that helps developers, designers, and data analysts convene and collaborate on open journalism projects. The first draft was written during [a two-day event in December 2016](https://source.opennews.org/articles/building-guide-open-sourcing-newsroom-code/), with about 20 people working in-person and remote.
 
 ## Table of Contents
 
