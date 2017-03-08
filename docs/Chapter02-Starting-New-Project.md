@@ -66,11 +66,11 @@ There are many licenses to choose from, and you should pick the one that is best
 
 > THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Licensing non-code projects 
+### Licensing non-code projects
 
-The licenses talked about so far have been focused on how code can be used, but if you are working with something other than primarily code, there are more appropriate licenses. [TODO: more on why one would use a license for non-code projects]
+The licenses above focus on the reuse of code, but it's also important to license other assets you might be open sourcing, like images or raw data. Without an explicit license, some users may be prohibited from using these assets, whether by local laws or by their employer's policies. Including licenses for all pieces of your project is the best way to clarify a user's rights.
 
-The most common is [Creative Commons](https://creativecommons.org/share-your-work/), which is a suite of licenses made to be easy to understand and mixed depending on your needs. Creative Commons is mostly used for media or content, such as text, images, or videos.
+The most common license for non-code assets is [Creative Commons](https://creativecommons.org/share-your-work/), which is a suite of licenses made to be easy to understand and mixed depending on your needs. Creative Commons is mostly used for media or content, such as text, images, or videos.
 
 The [Open Data Commons](http://opendatacommons.org/) is similar to Creative Commons but is focused on data.  OpenStreetMap, a very successful open data project, uses the ODbl license.
 
@@ -98,7 +98,7 @@ Spend some time searching for similar projects in the wider news nerd community,
 
 ## More on Getting Started
 
-* "Producing Open Source Software," by Karl Fogel. [Chapter 2: Getting Started](http://producingoss.com/en/getting-started.html) 
+* "Producing Open Source Software," by Karl Fogel. [Chapter 2: Getting Started](http://producingoss.com/en/getting-started.html)
 
 ## What's Next
 
