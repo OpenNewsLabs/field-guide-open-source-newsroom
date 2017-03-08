@@ -73,6 +73,7 @@ The following people have contributed to this guidebook:
 * Ryan Pitts
 * Lindsay Muscato
 * Erin Kissane
+* Noah Veltman
 
 ## License
 
