@@ -28,13 +28,13 @@ In [Chapter 1](Chapter01-Choosing-Open-Source.md), we talked about how it's esse
 
 * What are the expectations around ongoing support? How quickly are you willing/able to respond to issues and feature requests?
 
-* How much should we communicate about the philosophy of code for the project? For example, the idea of "Pythonic," or the very specific way of building D3. 
+* How much should we communicate about the philosophy of code for the project? For example, the idea of "Pythonic," or the very specific way of building D3.
 
 * What does the eventual timeline for the project look like, and how does community involvement play a role in that? Does the level of that involvement change over that timeline? (Also see [Chapter 8](Chapter08-Handoffs-Sunsets.md))
 
 ## More to consider upfront
 
-In [Chapter 5](Chapter05-Documentation.md), we covered best practices for documenting your code. We've gathered a few other things to think about in preparation to work with the community. 
+In [Chapter 5](Chapter05-Documentation.md), we covered best practices for documenting your code. We've gathered a few other things to think about in preparation to work with the community.
 
 ### Working with other orgs/partnerships
 
@@ -56,7 +56,7 @@ For more example contributor codes of conduct, check out the [Contributor Covena
 
 ### Governance
 
-As [Christie Koehler of Authentic Engine warns](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/), it's never to early to think about governance. (The [Contributor Covenant](http://contributor-covenant.org/) is a popular starting point.) If you're under the umbrella of a software-related nonprofit, for instance [NumFOCUS](http://www.numfocus.org/), that'll help you make and implement these choices. 
+As [Christie Koehler of Authentic Engine warns](https://subfictional.com/2016/01/25/the-complex-reality-of-adopting-a-meaningful-code-of-conduct/), it's never to early to think about governance. (The [Contributor Covenant](http://contributor-covenant.org/) is a popular starting point.) If you're under the umbrella of a software-related nonprofit, for instance [NumFOCUS](http://www.numfocus.org/), that'll help you make and implement these choices.
 
 ### Communication
 
@@ -84,6 +84,8 @@ As a developer, when you open source your work you may be thinking that people w
 
 In general, and particularly as you're just starting to build a community around your project, no contribution is too small. Even submitting bug reports and feature requests is a great way for people to get involved. From there, some people might progress to helping with code review and quality assurance (QA) as a less-intimidating way to contribute to the codebase.
 
+Some projects tag issues that are good starter tasks for someone who wants to help. For example, React has a ["good first bug" tag](https://github.com/facebook/react/labels/good%20first%20bug).
+
 Keep in mind that non-technical people may also want to help with your project, and try to provide ways for them to get involved. Here are a few additional things you might consider:
 
 * **Adding or improving documentation.** It's often helpful to have people who are not familiar with your project try to follow the instructions you've provided and note issues where they get stuck. You might also just need help copy editing or fleshing out your documentation, and this is often a great place for new contributors to get started.
@@ -92,15 +94,27 @@ Keep in mind that non-technical people may also want to help with your project, 
 
 * **Community building and promotion.** Building and maintaining the community, triaging tickets and feature requests, promoting the project and encouraging adoption, and all of the other pieces involved in running a successful open source project are also great areas for less technical folks to contribute. You may need to provide volunteers with some guidance, instruction and documentation to perform these tasks, but you can to lighten your load by empowering some community members to build and manage the community around your project.
 
-* [TODO: more ideas for non-technical contributions]
+* **Issue triage.** Popular projects often see lots of non-actionable issues opened up. For example, an issue opened up on your project might actually be a problem with a different piece of software the user is using. Or it might be an unconstructive complaint. Or it might be a bug report that's too vague to pursue without more information. A non-technical contributor can help triage these issues by labeling, responding, and/or closing them.
+
+[TODO: more ideas for non-technical contributions]
 
 The most important thing is to make it as easy as possible for people to get involved and make that first contribution, in whatever form.
 
 ### Bug reports
 
-Even if you just want people to help with reporting bugs, you'll want to make sure your community members know your preferred method of communication, how to submit bug reports and what a good bug report should contain. 
+Even if you just want people to help with reporting bugs, you'll want to make sure your community members know your preferred method of communication, how to submit bug reports and what a good bug report should contain. You can include a set of guidelines or a sample bug report for clarity.
 
-[TODO: add sample ticket structure, etc.]
+Example bug report guidelines:
+
+* [npm](https://github.com/npm/npm/wiki/Contributing-Guidelines)
+* [D3](https://gist.github.com/mbostock/370b737ce71bed0749e103b01ce1bfaf)
+
+If you're using GitHub, you can include your bug report template in the repo using the filename `ISSUE_TEMPLATE.md` and it will automatically populate for users opening new issues.
+
+Example issue templates:
+
+* [Bootstrap](https://github.com/twbs/bootstrap/blob/master/ISSUE_TEMPLATE.md)
+* [Electron](https://github.com/electron/electron/blob/master/ISSUE_TEMPLATE.md)
 
 Depending on the size and scope of your project, you'll likely handle bug reports and other community contributions a bit differently.
 
@@ -132,9 +146,9 @@ While these may be great places to start promoting your work, you'll also want t
 
 * What are the best ways to reach them? (Twitter, Github, Facebook, direct meetings with community leaders)
 
-If you haven't made connections with these organizations, this can be a great opportunity to make those introductions and hopefully start an ongoing relationship where you'll be able to share and learn from one another for years to come. 
+If you haven't made connections with these organizations, this can be a great opportunity to make those introductions and hopefully start an ongoing relationship where you'll be able to share and learn from one another for years to come.
 
-Although a broad approach and technical platforms can be useful, don't forget to connect, one-on-one, with real potential community members who you might want to reach. Their input is key to developing an approach that will mesh with the reality. Consider what societal divides you might encounter, along lines of class, race, gender, and language. Make sure you don't unintentionally alienate potential community members from your project. 
+Although a broad approach and technical platforms can be useful, don't forget to connect, one-on-one, with real potential community members who you might want to reach. Their input is key to developing an approach that will mesh with the reality. Consider what societal divides you might encounter, along lines of class, race, gender, and language. Make sure you don't unintentionally alienate potential community members from your project.
 
 And, of course, a great way to draw interest and support from the open source community is to contribute to other open source projects yourself. Having a track record of being helpful in the open source community will make others more likely to help you.
 
@@ -188,11 +202,11 @@ One particularly unique aspect for some open source news projects is the need fo
 
 ## Dealing with the dark side of community
 
-We want to also acknowledge that as with any community there exists the possibility that people will behave badly. 
+We want to also acknowledge that as with any community there exists the possibility that people will behave badly.
 
 ### Enforcing a Code of Conduct
 
-Earlier in this chapter, we talked about agreeing on a code of conduct. Here's more on that. First, why have one? It's tempting to think that just because you haven't experienced harassment personally, or that your project hasn't yet had any hostile behavior, you don't need to adopt one—or that you can wait to adopt one until something happens. But in order to help ensure that the community around your project stays safe, welcoming, and open to people from all backgrounds, you'll want to have a contributor code of conduct that lays out what constitutes inappropriate behavior, and how the project team will handle it. 
+Earlier in this chapter, we talked about agreeing on a code of conduct. Here's more on that. First, why have one? It's tempting to think that just because you haven't experienced harassment personally, or that your project hasn't yet had any hostile behavior, you don't need to adopt one—or that you can wait to adopt one until something happens. But in order to help ensure that the community around your project stays safe, welcoming, and open to people from all backgrounds, you'll want to have a contributor code of conduct that lays out what constitutes inappropriate behavior, and how the project team will handle it.
 
 That said, simply having a contributor code of conduct isn't enough: You'll need to figure out who enforces it, and how. As you write or adopt a code of conduct, think about how you will practically and logistically address the following three points (adapted from the [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)):
 
@@ -202,7 +216,7 @@ That said, simply having a contributor code of conduct isn't enough: You'll need
 
 * Coming up with a defined and documented complaint handling process, with people who can handle the reports, investigate whether they constitute violations of the CoC, and implement any punishments or responses applicable (from written warnings to permanent bans)
 
-### Dealing with Opposition 
+### Dealing with Opposition
 
 In addition, sometimes institutions or interests may oppose an open source project because of the information that may be revealed and their beliefs about how that affects their political interests. It is important for all involved in the project to coordinate ahead of time and be aware of the political terrain in a given community so they can take a resolute and coordinated stance. This allows those involved, especially on the editorial side, to anticipate what will happen when it goes public so all the organizations involved can be ready to respond with points and defenses. Especially in the immediate aftermath of a project's release to the public, this can help shape perception in its favor and tie in with encouraging community involvement.
 
@@ -234,5 +248,5 @@ Dealing with issue/ticket spam? [TODO: examples of orgs who open sourced editori
 - [ ] Work with editors to develop a verification process, if needed
 - [ ] Have and publicize channels of communication (IRC channel, Slack, mailing list, issue tracker, etc.)
 - [ ] Write a contribution document (e.g. CONTRIBUTING.md)
-- [ ] Make sure your community members know your preferred method of communication, how to submit bug reports and what a good bug report should contain. 
+- [ ] Make sure your community members know your preferred method of communication, how to submit bug reports and what a good bug report should contain.
 - [ ] Credit contributors
