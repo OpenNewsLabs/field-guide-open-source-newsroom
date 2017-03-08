@@ -30,7 +30,7 @@ There are many choices for where your project's documentation could live—GitHu
 
 The audience for your project could be more than just your users. They could be editors or managers evaluating the project for future use or developers contributing to your project. Identifying your audience will shape the way you approach your documentation in terms of technical vocabulary and examples.
 
-A few things to keep in mind: 
+A few things to keep in mind:
 
 * **Setting expectations is always better if it's done early**—in life, and in your open source project. Upfront, your documentation should answer the question: "What do I need to know to use this project?" It is also helpful to give a time estimate of how long it will take to set up and get the project running. Here's (https://pantheon.io/blog/still-maintained).
 
@@ -141,13 +141,19 @@ What do you do when your code doesn't work the way you expect it to work? Look a
 
 * Are there errors that you might encounter frequently?
 
-Debugging sections, like most other documentation, should not be prescriptive. While providing your tooling and setup details as an example could be helpful, the documentation should not assume any specific tooling or environment setup. 
+Debugging sections, like most other documentation, should not be prescriptive. While providing your tooling and setup details as an example could be helpful, the documentation should not assume any specific tooling or environment setup.
 
 ## Consider the style guide
 
 Additionally, many news organizations have a style guide (AP, NYT, etc.) and these should be familiar to the originators of the project in setting the format for any text or prose involved, if necessary. Your team may also have style guides for code, design and documentation. Make sure you share them and set the expectations for contributors. It's much easier to review and merge a new feature if it already conforms (or nearly conforms) to your existing standards.
 
-[TODO: add style guide examples]
+Example coding style guides:
+
+* [Code Guide](http://codeguide.co/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [Google Style Guides](https://google.github.io/styleguide/)
+
+
 
 ## Managing documentation debt
 
@@ -164,11 +170,11 @@ The NPR Visuals team and the Institute for Nonprofit News both use onboarding as
 - [ ] Decide on the scope of the documentation
 - [ ] Decide where you will host your documentation
 - [ ] Decide who you're writing your documentation for (users, new contributors, experienced contributors, etc.)
-- [ ] Write a README that contains: 
+- [ ] Write a README that contains:
     - a project summary
     - installation instructions
     - how to run the project
-    - future plans for the project 
+    - future plans for the project
     - how to contribute to the project (or a link to your CONTRIBUTING file)
     - credits
 - [ ] If documentation is hosted elsewhere, put a minimal README that links to it with the code
