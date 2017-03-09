@@ -132,7 +132,7 @@ Flip back to [Chapter 3](Chapter03-Existing-Projects.md), where we talk about re
 
 ## Automated testing and continuous integration
 
-More automated tests in/for your codebase are better, because they reduce regressions so you can move faster and merge others' code faster (and let others review and merge code faster), but don't sweat getting to 100%, because there's definitely a decreasing marginal utility to this stuff. [Travis CI](https://travis-ci.org/) is pretty easy to set up for the common case.  
+Automated tests in and for your codebase reduce regressions, allowing you and your contributors to work and merge code faster. Don't sweat getting to 100% coverage, though, because there's definitely a decreasing marginal utility to this stuff. [Travis CI](https://travis-ci.org/) is pretty easy to set up for the common case.  
 
 Some resources on debugging:
 
@@ -140,13 +140,18 @@ Some resources on debugging:
 
 * [Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History](https://www.harihareswara.net/sumana/2016/10/12/0) 
 
-There are even some automated document-generation tools that can give you a head start on documentation. For example:
+There are also automated document-generation tools that can give you a head start on documentation. For example:
 
-* Doxygen (Java)
+* [Doxygen (Java/C++/PHP/Python)](http://www.doxygen.org/)
 
-* Pydoc (Python)
+* [Pydoc (Python)](https://docs.python.org/2/library/pydoc.html)
 
-* Swagger (RESTful APIs)
+* [Swagger (RESTful APIs)](http://swagger.io/)
+
+You can even automate testing for many of the suggestions described here in the Field Guide. Open Project Linter is a companion tool that tests project directories for good practices in documentation and code. (And it's an open-source project you can contribute to as well!)
+
+* [Open Project Linter](https://github.com/OpenNewsLabs/open-project-linter)
+
 
 [TODO: info on identifying common bugs, errors, and user errors]
 
