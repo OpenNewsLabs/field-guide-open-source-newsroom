@@ -84,12 +84,6 @@ You can say:
 
 	* [https://choosealicense.com/](https://choosealicense.com/)
 
-* Some resources on rewarding contribution:
-
-	* [Making your Code Citable with a DOI](https://guides.github.com/activities/citable-code/)
-
-	* [Creating a humans.txt file to recognize contribution](http://humanstxt.org/)
-
 *How will open sourcing incomplete code make us look?*
 
 * "Contributing to the open source community increases the visibility of our work, and demonstrates a net good added to journalism. Our PR people can talk about our contributions to the community, as well as promote projects that are using our tools."
