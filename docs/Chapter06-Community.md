@@ -176,7 +176,11 @@ Open source projects are often the product of contributions by many individual h
 
 * Check if people you know might want to hire them
 
-* [TODO: more ideas on crediting contributors]
+* Some resources on rewarding contribution:
+
+	* [Making your Code Citable with a DOI](https://guides.github.com/activities/citable-code/)
+
+	* [Creating a humans.txt file to recognize contribution](http://humanstxt.org/)
 
 ### In-person get-togethers
 
