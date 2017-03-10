@@ -74,6 +74,7 @@ The following people have contributed to this guidebook:
 * Lindsay Muscato
 * Erin Kissane
 * Noah Veltman
+* Aurelia Moser
 
 ## License
 
