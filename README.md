@@ -40,6 +40,12 @@ There's also a companion tool to this guidebook. Open Project Linter is an autom
 
 This is a community resource, and it gets better every time anyone from the journalism-code community shares advice, writes up an experience, asks a question, or even just spots a typo. We'd love to add your voice to this project, and [here's how you can join in](docs/contributing.md).
 
+## Localization
+
+This project includes ongoing efforts to localize for readers in:
+
+* [Spanish](es/)
+
 ## Contact
 
 Want to know more about this guidebook? Have a question about open-sourcing a newsroom project? Reach out to [fieldguide@opennews.org](mailto:fieldguide@opennews.org).

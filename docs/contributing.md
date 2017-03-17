@@ -24,6 +24,12 @@ If you'd like to submit an update to this guidebook, first of all, thank you! If
 
 If you're comfortable using git and GitHub, you should feel free to submit changes by cloning this project and [opening a pull request](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/compare). (And when you do, we'd love it if you'd add yourself to the [AUTHORS list](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom#authors) as well.) If you're not used to git, we're also very happy to receive comments and updates at [fieldguide@opennews.org](mailto:fieldguide@opennews.org).
 
+## Localization
+
+This project includes ongoing efforts to localize for readers in:
+
+* [Spanish](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/es/)
+
 ## Our process
 
 This documentation is released under the [MIT license](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/blob/master/LICENSE), so by submitting an update, you're agreeing to share your changes under this license as well. We may edit your work for style and consistency with the rest of the guidebook, or offer feedback about anything that might need to be revised.
