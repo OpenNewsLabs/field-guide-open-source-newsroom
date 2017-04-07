@@ -40,7 +40,7 @@ Las listas siguientes parafrasean sugerencias de la comunidad, y de recursos ext
 
 * **Mantener una actitud coherente respecto a la transparencia en la empresa.** De la misma forma que los periodistas citan las fuentes de sus datos y explican sus procesos metodológicos, liberar el código de un software lo hace transparente para los lectores y usuarios. Impulsa a la organización a interrogar sus propios procesos y a reflexionar sobre ellos.
 
-* **El valor de la redundancia y la distribuibilidad. **Mientras más liberemos —datos sobre todo— más podremos aportarles a los periodistas herramientas para hacer su trabajo. Además, mientras más distribuido esté un recurso, más difícil será de borrar o de censurar por completo por una fuerza externa.
+* **El valor de la redundancia y la distribuibilidad.** Mientras más liberemos —datos sobre todo— más podremos aportarles a los periodistas herramientas para hacer su trabajo. Además, mientras más distribuido esté un recurso, más difícil será de borrar o de censurar por completo por una fuerza externa.
 
 Para completar esta lista, aquí un par más de recursos:
 
