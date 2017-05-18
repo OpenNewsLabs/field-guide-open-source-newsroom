@@ -14,16 +14,16 @@ Esta guía la coordina [OpenNews](https://opennews.org/), un equipo que ayuda a 
 
 ## Índice
 
-* [Capítulo 1: Optar por código abierto y conseguir vistos buenos]()
-* [Capítulo 2: Empezar un proyecto nuevo](docs/es/Capitulo02-Iniciar-proyecto-nuevo.md)
-* [Capítulo 3: Liberar un proyecto anterior](docs/es/Capitulo03-Proyectos-anteriores.md)
-* [Capítulo 4: El código y cómo lanzar la primera versión](docs/es/Capitulo04-Codigo-primera-version.md)
-* [Capítulo 5: Documentación](docs/es/Capitulo05-Documentacion.md)
-* [Capítulo 6: Trabajar en comunidad](docs/es/Capitulo06-Comunidad.md)
-* [Capítulo 7: Administración de versiones](docs/es/Capitulo07-Versiones.md)
-* [Capítulo 8: Abandono y desactivación](docs/es/Capitulo08-Abandono-desactivacion.md)
-* [Colaborar con esta guía](docs/es/colaborar.md)
-* [Ayuda](docs/es/ayuda.md)
+* [Capítulo 1: Optar por código abierto y conseguir vistos buenos](Capitulo01-Optar-por-codigo-abierto.md)
+* [Capítulo 2: Empezar un proyecto nuevo](Capitulo02-Empezar-proyecto-nuevo.md)
+* [Capítulo 3: Liberar un proyecto anterior](Capitulo03-Proyectos-anteriores.md)
+* [Capítulo 4: El código y cómo lanzar la primera versión](Capitulo04-Codigo-primera-version.md)
+* [Capítulo 5: Documentación](Capitulo05-Documentacion.md)
+* [Capítulo 6: Trabajar en comunidad](Capitulo06-Comunidad.md)
+* [Capítulo 7: Administración de versiones](Capitulo07-Versiones.md)
+* [Capítulo 8: Abandono y desactivación](Capitulo08-Abandono-desactivacion.md)
+* [Colaborar con esta guía]()
+* [Ayuda]()
 
 ## Más recursos
 
