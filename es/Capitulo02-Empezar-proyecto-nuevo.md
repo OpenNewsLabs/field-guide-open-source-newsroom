@@ -1,4 +1,4 @@
-# Capítulo 2: Empezar un proyecto nuevo
+﻿# Capítulo 2: Empezar un proyecto nuevo
 
 **En el inicio...**
 
@@ -28,11 +28,11 @@ Nombrar un proyecto puede ser muy importante si termina siendo un gran éxito, p
 
 A la hora de elegir una licencia, las siguientes sugerencias pueden ayudar a que esta decisión legalmente vinculante no resulte tan atemorizante.
 
-* Ten en cuenta las necesidades internas de tu organización. ¿Planeas vender este software a otras organizaciones? ¿Tienes reglas estrictas de propiedad intelectual que te impedirían permitirle a los demás modificar tu trabajo para desarrollar algo nuevo? Es posible que debas consultar esto con tu equipo legal, pero si no está claro, es mejor que vayas a verlos con un plan concreto.
+* Ten en cuenta las necesidades internas de tu organización. ¿Planeas vender este software a otras organizaciones? ¿Tienes reglas estrictas de propiedad intelectual que te impedirían permitirles a los demás modificar tu trabajo para desarrollar algo nuevo? Es posible que debas consultar esto con tu equipo legal, pero si no está claro, es mejor que vayas a verlos con un plan concreto.
 
 * Habla con el asesor legal de tu organización. Tu decisión individual sobre el tipo de licencia podría desestimarse si el abogado recomienda una licencia diferente por razones que te son desconocidas.
 
->El asesor del New York Times recomendó que usáramos la licencia Apache 2.0 en lugar de la MIT, no por nada inherente al funcionamiento de las licencias, sino porque él estaba más familiarizado con Apache 2.0.
+>El asesor de *The New York Times* recomendó que usáramos la licencia Apache 2.0 en lugar de la MIT, no por nada inherente al funcionamiento de las licencias, sino porque estaba más familiarizado con Apache 2.0.
 
 >*— Jeremy Bowers*
 
@@ -42,7 +42,7 @@ A la hora de elegir una licencia, las siguientes sugerencias pueden ayudar a que
 
 * Piensa en quién va a usar tu código.  Aunque en teoría puede ser cualquiera, la licencia que elijas afectará la forma en que ciertos grupos u organizaciones podrán usar tu código.
 
-Hay muchas licencias para elegir, y debes irte por la que mejor sea para ti. Para reducir la búsqueda, podemos decir que básicamente hay dos tipos de licencias:
+Hay muchas licencias para elegir y debes irte por la que mejor sea para ti. Para reducir la búsqueda, podemos decir que básicamente hay dos tipos de licencias:
 
 1. **Copyleft**.  La licencia Copyleft establece que cualquiera puede usar el código en otro proyecto, con la condición de que se preserve el tipo de licencia, lo cual generalmente significa que los [trabajos derivados](https://en.wikipedia.org/wiki/Derivative_work) solamente pueden distribuirse bajo la misma licencia.  La mayor ventaja de esta licencia es que obliga a que el código continúe siendo abierto.  La mayor desventaja es que a veces puede entrar en conflicto con las políticas internas de algunas organizaciones y hacer que les sea más difícil usar tu herramienta (normalmente con fines comerciales).
 
@@ -76,25 +76,25 @@ La [Open Data Commons](http://opendatacommons.org/) es una licencia parecida a C
 
 ### Derechos de autor
 
-Es importante destacar que asignarle una licencia a tu proyecto de código abierto no significa que estás renunciando a tus derechos sobre ese material, ni personalmente ni como organización (dependiendo de cómo se manejen los derechos en tu redacción.  Una licencia es básicamente una respuesta a la pregunta "¿Puedo usar esto? ¿Cómo?" que pueda hacer cualquiera.
+Es importante destacar que asignarle una licencia a tu proyecto de código abierto no significa que estás renunciando a tus derechos sobre ese material, ni personalmente ni como organización (dependiendo de cómo se manejen los derechos en tu redacción).  Una licencia es básicamente una respuesta a la pregunta "¿Puedo usar esto? ¿Cómo?" que pueda hacer cualquiera.
 
 Por otro lado, cualquier aporte realizado por otras persona u organizaciones continuará siendo propiedad intelectual de esos colaboradores.  Si tu proyecto crece mucho, puede que valga la pena considerar el uso de un [Contrato para colaboradores](https://en.wikipedia.org/wiki/Contributor_License_Agreement), para que tanto el proyecto como los colaboradores tengan derechos/roles más definidos.
 
 ## Conoce a tu público
 
-Como con cualquier otro producto (apps de noticias, o artículos), tu software probablemente tiene un público meta. En este caso estamos hablando de usuarios. ¿Quiénes son los usuarios que están reclamando la existencia de una cosa que haga lo que hace tu software? Debes mantener a esos usuarios en mente a lo largo de todo el proceso, no solo para construir algo que se ajuste a sus necesidades, sino también para construirlo de manera que sea utilizable.
+Como con cualquier otro producto (apps de noticias o artículos, etc.), tu software probablemente tiene un público meta. En este caso estamos hablando de usuarios. ¿Quiénes son los usuarios que están reclamando la existencia de una cosa que haga lo que hace tu software? Debes mantener a esos usuarios en mente a lo largo de todo el proceso, no solo para construir algo que se ajuste a sus necesidades, sino también para construirlo de manera que sea utilizable.
 
-Por ejemplo, si estás construyendo una herramienta que pequeños medios de prensa sin fines de lucro pudieran integrar a sus sistemas de gestión de contenido, toma en cuenta los sistemas que usas esas redacciones actualmente y los recursos que tienen a su disposición para evaluar e instalar código nuevo.
+Por ejemplo, si estás construyendo una herramienta que pequeños medios de prensa sin fines de lucro pudieran integrar a sus sistemas de gestión de contenido, toma en cuenta los sistemas que usan esas redacciones actualmente y los recursos que tienen a su disposición para evaluar e instalar código nuevo.
 
 ## Estudia a tu competencia
 
-![](https://media.opennews.org/fieldguides/open-sourcing/wash.gif)
+![oh, Wash](https://media.opennews.org/fieldguides/open-sourcing/wash.gif)
 
 Internet es un mar de cosas. De tantas cosas... Y tú quieres que tu producto sea una de ellas. ¿Estás segur@ de que ya no hay algo que cumple la misma función?
 
 Puede que sí. Decide si es momento de pararte en los hombros de gigantes, contribuir al desarrollo de un proyecto de código abierto que ya existe, hacerlo tuyo, y volverlo a lanzar al mundo para que los demás hagan lo mismo; o si es hora de romper con el pasado y crear algo mucho, mucho mejor. Para ponerlo en otros términos, es el momento en que vas a decidir si vas a reinventar la rueda, y puede que a veces sea necesario si tu meta es construir un auto volador.
 
-Dedícale un tiempo a buscar proyectos similares en la comunidad de nerds del periodismo, y más allá, en Github y otros lugares. Si encuentras un repositorio impresionante que quieras seguir desarrollando, examina en más detalle los problemas, solicitudes de cambios y contenido añadido, para llevarte una idea de si el repositorio recibe mantenimiento. Después, ponte en contacto con los dueños, y descubre qué han aprendido por el camino.
+Dedícale un tiempo a buscar proyectos similares en la comunidad de nerds del periodismo y más allá, en Github y otros lugares. Si encuentras un repositorio impresionante que quieras seguir desarrollando, examina en más detalle los problemas, solicitudes de cambios y contenido añadido, para llevarte una idea de si el repositorio recibe mantenimiento. Después, ponte en contacto con los dueños y descubre qué han aprendido por el camino.
 
 ## Más información sobre el comienzo
 
@@ -106,7 +106,7 @@ Estamos muy felices por ti. ¡Has empezado tu primer proyecto de código abierto
 
 ![ahhhhhhhhhhhh](https://media.opennews.org/fieldguides/open-sourcing/kermit.gif)
 
-Pero espera, hay más. Salta al [Capítulo 4](Capitulo04-Primera-version.md) para aprender más sobre la primera publicación del proyecto, cómo escribir documentación detallada y útil, cómo incrementar tu comunidad, y qué hacer con respecto al fin inevitable de tu idea. O si tu tarea es liberar un proyecto que ya existe, dirígete al [Capítulo 3](Capitulo03-Proyectos-anteriores.md).
+Pero espera, hay más. Salta al [Capítulo 4](Capitulo04-Primera-version.md) para aprender más sobre el lanzamiento de la primera versión, cómo escribir documentación detallada y útil, cómo expandir tu comunidad y qué hacer con respecto al fin inevitable de tu idea. O si tu tarea es liberar un proyecto que ya existe, dirígete al [Capítulo 3](Capitulo03-Proyectos-anteriores.md).
 
 ## Puntos a verificar
 
@@ -119,7 +119,7 @@ Pero espera, hay más. Salta al [Capítulo 4](Capitulo04-Primera-version.md) par
 - [ ] Comienza a escribir tu documentación (archivo README)
 - [ ] Añade la licencia que elegiste y la documentación inicial para colaboradores
 - [ ] ¡Añade un poco de código!
-- [ ] Añade otro poco más.
+- [ ] Añade otro poco más
 - [ ] Actualiza la documentación (archivo README).
 - [ ] Genera tu primera versión
 - [ ] Ten un plan de mantenimiento y asistencia técnica
