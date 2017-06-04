@@ -30,7 +30,7 @@ Particularmente si vas a ser quien dé mantenimiento a nivel de código, [aprend
 
 Aquí tenemos una [lección básica sobre Git](https://openhatch.org/missions/git) por ejemplo. Clona un repositorio de un proyecto que no te interese y trata de usar los comandos más avanzados haciéndole pequeños cambios al código. Así, si arruinas todo, no habrás echado a perder el trabajo. 
 
-Aprende a bifurcar y a combinar y a trabajar con remote y cherry-pick y  bisect. Lee [esta explicación superútil sobre el modelo de Git](http://web.mit.edu/nelhage/Public/git-slides-2009.pdf), que explica exactamente qué hace qué. Te ayudará.  
+Aprende a ramificar y a combinar cambios y a trabajar con remote y cherry-pick y bisect. Lee [esta explicación superútil sobre el modelo de Git](http://web.mit.edu/nelhage/Public/git-slides-2009.pdf), que explica exactamente qué hace qué. Te ayudará.  
 
 Más recursos:
 
@@ -46,7 +46,7 @@ Ayuda a la gente a saber cómo pueden contribuir a tu proyecto.  Uno de los tant
 
 * **Algunas cosas como gestión de dependencias**, Docker, etc., son buenas tecnologías para ayudar a que la gente colabore más rápido.
 
-* [TAREAS: más ejemplos aquí]
+* [TAREA: más ejemplos aquí]
 
 ## Seguimiento de problemas
 
@@ -136,7 +136,8 @@ Las pruebas automatizadas en y para tu base de código reducen las regresiones, 
 
 Aquí algunos recursos para depuración de errores:
 
-* [Systematic Debugging](http://akaptur.com/blog/2013/07/24/systematic-debugging/)
+* [Depuración sistemática de errores
+](http://akaptur.com/blog/2013/07/24/systematic-debugging/)
 
 * [Notas rápidas en Software Libre y de Código Abierto para nuevos colaboradores sobre el método científico y la historia utilizable](https://www.harihareswara.net/sumana/2016/10/12/0) 
 
@@ -153,7 +154,7 @@ Incluso puedes automatizar pruebas para muchas de las sugerencias expuestas en e
 * [Open Project Linter](https://github.com/OpenNewsLabs/open-project-linter)
 
 
-[TAREAS: información sobre cómo identificar bugs, errores y errores de usuarios]
+[TAREA: información sobre cómo identificar bugs, errores y errores de usuarios]
 
 ## Más recursos
 
@@ -167,8 +168,8 @@ He aquí un buen resumen del camino para llegar a la primera publicación del pr
 - [ ] Usa un control público de bugs para las TAREAS
 - [ ] Evalúa qué es lo que necesitas en realidad para un proyecto mínimo
 - [ ] Crea un archivo README claro e informativo
-- [ ] Crea un archivo COLABORAR independiente
-- [ ] Evalúa usar herramientas de administración de dependencias, Docker, etc. para ayudar a que la gente pueda empezar a colaborar más rápido
+- [ ] Crea un archivo CONTRIBUTING (COLABORAR) independiente
+- [ ] Evalúa usar herramientas de administración de dependencias, Docker, etc. para ayudar a que la gente empiece a colaborar más rápido
 - [ ] Anuncia dónde es que los usuarios y los colaboradores pueden informar sobre problemas
 - [ ] Usa las plantillas de problemas en Github
 - [ ] Asegúrate de asignarle a tu producto números de versiones
