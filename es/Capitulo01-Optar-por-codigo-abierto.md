@@ -1,6 +1,6 @@
 # Capítulo 1: Optar por código abierto y conseguir vistos buenos
 
-Antes de dar cualquier paso —antes de empezar a pensar en la documentación, los lenguajes y las instrucciones para los colaboradores— piensa si necesitas que otras personas en tu redacción apoyen tu idea de código abierto. Obtener este tipo de visto bueno fomenta una cultura de apreciación y apoyo hacia este tipo de proyectos, tanto pequeños como grandes, y sienta cimientos sólidos para lograr que otras iniciativas futuras más ambiciosas triunfen a la larga. 
+Antes de dar cualquier paso —antes de empezar a pensar en la documentación, los idiomas y las instrucciones para los colaboradores— piensa si necesitas que otras personas en tu redacción apoyen tu idea de código abierto. Obtener este tipo de visto bueno fomenta una cultura de apreciación y apoyo hacia este tipo de proyectos, tanto pequeños como grandes, y sienta cimientos sólidos para lograr que otras iniciativas futuras más ambiciosas triunfen a la larga. 
 
 Esto normalmente implica convencer a gente en diferentes niveles de dirección de que tu participación en la creación de un software de código abierto merita una inversión de tiempo y recursos. Específicamente, necesitarás convencer a los demás de que los beneficios son mucho mayores que los perjuicios. Cuando defiendas tu punto de vista, puedes exponer claramente los argumentos a favor y en contra, y fijar un plazo de tiempo para hacer una evaluación de tu participación en el proyecto.
 
@@ -12,13 +12,13 @@ Es bueno suponer desde el principio que todo el mundo en tu organización tendr�
 
 Para conseguir la aprobación de los demás para un proyecto de código abierto es importante saber por qué la gente libera su trabajo en primer lugar. Hay una serie de beneficios asociados (aunque, por supuesto, también debes estar al tanto de lo que se pierde). Comprender la pregunta "¿Para qué sirve liberar código?" desde varios ángulos diferentes te ayudará a comunicarte con gente que puede tener otras prioridades que no son las tuyas. 
 
-Las listas siguientes parafrasean sugerencias de la comunidad, y de recursos externos como [OpenSource.com](https://opensource.com/life/15/12/why-open-source), [Open Source Everything!](http://tom.preston-werner.com/2011/11/22/open-source-everything.html), y [Why Open Source](http://www.dwheeler.com/oss_fs_why.html).
+Las listas siguientes parafrasean sugerencias de la comunidad y de recursos externos como [OpenSource.com](https://opensource.com/life/15/12/why-open-source), [Open Source Everything!](http://tom.preston-werner.com/2011/11/22/open-source-everything.html), y [Why Open Source](http://www.dwheeler.com/oss_fs_why.html).
 
 **Beneficios ingenieros del código abierto:**
 
 * **Detección y corrección de errores más rápido.** Cuando los programas son privativos, las únicas personas que pueden detectar y arreglar *bugs* son los ingenieros de ese equipo. Liberar tu programa significa que podrá ser revisado por muchas más personas, que se pondrá a prueba bajo una serie de circunstancias mucho más diversas, y que el enorme ecosistema de programadores que no están en tu equipo estará ayudando a arreglarlo. Recuerda la [Ley de Linus](https://en.wikipedia.org/wiki/Linus%27s_Law): "Dada una cantidad suficiente de ojos, todos los [*bugs*](https://es.wikipedia.org/wiki/Error_de_software) son insignificantes."
 
-* **Colaboración directa.** El código abierto permite a las compañías colaborar en problemas que comparten, sin complicadas asociaciones comerciales, ni contratos previos, etc. Esto permite encontrar mejores soluciones más rápido.
+* **Colaboración directa.** El código abierto permite a las empresas colaborar en problemas que les son comunes, sin necesidad de complicadas asociaciones comerciales, ni contratos previos, etc. Esto permite encontrar mejores soluciones más rápido.
 
 * **Incentivo a la modularidad.** Programar a la vista pública puede producir programas más limpios, más seguros y con una arquitectura más modular  —que también es bueno para el desarrollo interno. Al hacer que tu código sea lo suficientemente flexible y modular para ser usado por el público en diferentes proyectos, estás contribuyendo a que tus propios equipos internos dispongan de una herramienta que no caducará con el paso del tiempo. 
 
@@ -26,11 +26,11 @@ Las listas siguientes parafrasean sugerencias de la comunidad, y de recursos ext
 
 **Beneficios comerciales/de relaciones públicas**
 
-* **Coincidencia de necesidades comerciales.** El código abierto permite a las empresas colaborar en problemas comunes, sin necesidad de complicadas alianzas comerciales, ni acuerdos previos, etc.
+* **Coincidencia de necesidades comerciales.** El código abierto permite a las empresas colaborar en problemas que les son comunes, sin necesidad de complicadas asociaciones comerciales, ni contratos previos, etc.
 
 * **Buena promoción en los medios cuando los proyectos son buenos.** Los proyectos de calidad generan buena publicidad y conquistan la buena voluntad del público. También le dan a la empresa la oportunidad de reclamar públicamente la cuestión para sí, y establecer los términos por los cuales se regirá el diálogo alrededor de una tecnología o servicio dado.
 
-* **Crear una rueda nueva, sin tener que inventarla de cero.** Cuando permites que otras personas accedan a tu código, les evitas tener que reinventar la rueda; en lugar de eso, pueden dedicar esa energía a mejorar *tu* rueda. Un buen ejemplo es [Resque](https://github.com/resque/resque). La herramienta, además de mejorar gracias al trabajo de desarrolladores externos, contó con las contribuciones de cientos de desarrolladores que colaboraron con *plug-ins* que expandieron sus funcionalidades sin costo alguno. En lugar de malgastarse en un ecosistema de herramientas relacionadas pero diferentes e incompatibles, los esfuerzos de la comunidad se concentraron en portabilizarlo y en hacerlo más amplio y extensible, lo cual a su vez incrementó el valor de Resque.
+* **Crear una rueda nueva, sin tener que inventarla de cero.** Cuando permites que otras personas accedan a tu código, les evitas tener que reinventar la rueda; en lugar de eso, pueden dedicar esa energía a mejorar *tu* rueda. Un buen ejemplo es [Resque](https://github.com/resque/resque). Esta herramienta, además de mejorar gracias al trabajo de desarrolladores externos, contó con las contribuciones de cientos de desarrolladores que colaboraron con *plug-ins* que expandieron sus funcionalidades sin costo alguno. En lugar de malgastarse en un ecosistema de herramientas relacionadas pero diferentes e incompatibles, los esfuerzos de la comunidad se concentraron en hacer que el programa fuera portable, más amplio y extensible, lo cual a su vez incrementó el valor de Resque.
 
 * **Reclutamiento y financiamiento.** Los proyectos de buena calidad ayudan a atraer a desarrolladores que pueden ser una inspiración para tu trabajo y, al mismo tiempo, tu trabajo puede servirles de inspiración a ellos. En las redacciones financiadas por comunidades, puede ser beneficioso que tu organización sea percibida como un líder en la industria. 
 
@@ -86,7 +86,7 @@ Puedes responder:
 
 *¿Cómo afectará nuestra imagen liberar código inconcluso?*
 
-* "Colaborar con la comunidad de software libre incrementa la visibilidad de nuestro trabajo, y pone de relieve un valor neto añadido del periodismo. Nuestros encargados de relaciones públicas pueden hablar de nuestros aportes a la comunidad, y promover proyectos que usen nuestras herramientas."
+* "Colaborar con la comunidad de software libre incrementa la visibilidad de nuestro trabajo y pone de relieve un valor neto añadido del periodismo. Nuestros encargados de relaciones públicas pueden hablar de nuestros aportes a la comunidad y promover proyectos que usen nuestras herramientas."
 
 * "Liberar un proyecto nos ayuda proclamar públicamente que la idea fue nuestra. Muestra que somos líderes en nuestro campo y que contribuimos al avance de la industria."
 
@@ -96,7 +96,7 @@ Puedes responder:
 
 * "Seguiremos las prácticas establecidas para limpieza de bases de código antes de liberarlas a la vista pública." (Consulta el [Capítulo 3](Capitulo03-Proyectos-anteriores.md) para más información sobre cómo hacer esto.)
 
-* "Nos aseguraremos de mantenerles al tanto de cada versión nueva que lancemos para que puedan comunicarnos cualquier preocupación que puedan tener sobre información protegida por derechos de autor."
+* "Nos aseguraremos de mantenerles al tanto de cada versión nueva que lancemos para que nos comuniquen cualquier preocupación que puedan tener sobre información protegida por derechos de autor."
 
 * "Aquí están los detalles sobre qué vamos a liberar y qué permanecerá para uso interno/privativo:" 
 
@@ -124,7 +124,7 @@ Puedes responder:
 
 * "Siempre estamos lidiando con los mismos obstáculos para ____ y ____ . Al dedicarle recursos a este proyecto, esteremos resolviendo [problema específico en tu medio de prensa] y, a la larga, estaremos ahorrándoles tiempo a nuestros programadores."
 
-* "Liberar el código de nuestro trabajo nos obligará a mantener un diseño elegante y a desarrollar nuestro programa con disciplina, lo cual nos ayudará a minimizar la deuda técnica." ([parafraseado de](http://opensourcebridge.org/wiki/2010/The_Second_Step:_HOWTO_encourage_open_source_work_at_for-profits#LEGAL_POLICY) Sumana Harihareswara)
+* "Liberar el código de nuestro trabajo nos obligará a mantener un diseño elegante y a desarrollar nuestro programa con disciplina, lo cual nos ayudará a minimizar la deuda técnica." (parafraseado de [este escrito](http://opensourcebridge.org/wiki/2010/The_Second_Step:_HOWTO_encourage_open_source_work_at_for-profits#LEGAL_POLICY) de Sumana Harihareswara)
 
 * "Liberar datos/software va ganando en importancia a medida que los datos se vuelven menos transparentes." 
 
@@ -134,7 +134,7 @@ Puedes responder:
 
 * "Nosotros nos beneficiamos de recursos de código abierto (datos/herramientas) y tenemos la responsabilidad de retribuirle esa ayuda a la comunidad."
 
-* "Dada la amplia distribución que hoy tiene el código abierto, nos volvemos más competitivos/atractivos para contratar a desarrolladores. Con frecuencia los mejores desarrolladores tienen algo de experiencia en crear o mantener este tipo de proyectos, y les atraen más las compañías que tienen alguna cultura de código abierto."
+* "Dada la amplia distribución que hoy tiene el código abierto, nos volvemos más competitivos/atractivos para contratar a desarrolladores. Con frecuencia los mejores desarrolladores tienen algo de experiencia en crear o mantener este tipo de proyectos, y les atraen más las empresas que tienen alguna cultura de código abierto."
 
 *No quiero trabajar con/ayudar a mi competencia.*
 
@@ -170,7 +170,7 @@ Puedes responder:
 
 Por "jefe inmediato" nos referimos principalmente a la gente que controla tu horario y recursos (y/o los de tu equipo). A estas personas les preocupa cómo un proyecto de código abierto afectará la carga de trabajo de todo el mundo, tanto a corto como a largo plazo, a medida que el proyecto entra en modo de mantenimiento.
 
-*Si preguntan "¿Cuánto va a tardar? ¿Durante cuánto tiempo vas a trabajar en esto?
+*Si preguntan "¿Cuánto va a tardar? ¿Durante cuánto tiempo vas a trabajar en esto?"*
 
 Puedes responder:
 
@@ -186,7 +186,7 @@ Puedes responder:
 
 * "Este proyecto facilitará muchísimo nuestro trabajo en ______ y ______, y consumirá semanalmente el mismo tiempo que le dedicamos a [ejemplo de proyecto/reunión/revisar Twitter]."
 
-* Pregúntales qué piensan al respecto: * "Teniendo en cuenta el valor que aportará, ¿qué prioridad creen que deba darle a este proyecto con respecto a los demás?"
+* Pregúntales qué piensan al respecto: "Teniendo en cuenta el valor que aportará, ¿qué prioridad creen que deba darle a este proyecto con respecto a los demás?"
 
 * "Creo que puedo dedicarle X horas cada semana sin que se afecte el resto de mi trabajo. Si al final de cada semana les envío un informe de cuánto hemos progresado, podemos evaluar cómo priorizar este proyecto a medida que avanzamos."
 
@@ -220,15 +220,15 @@ Puedes responder:
 
 *¿Por qué tenemos que ser nosotros los que paguemos por algo de lo que se va a beneficiar todo el mundo?*
 
-* "Estableceremos una imagen de liderazgo y de contribución a la industria, algo que viene acompañado de mucho reconocimiento. Estamos invirtiendo en algo que mucha gente va a usar y que resaltará los vínculos con nuestra empresa. Recibiremos crédito por cualquier otra organización que use la herramienta.
+* "Estableceremos una imagen de liderazgo y de contribución a la industria, algo que viene acompañado de mucho reconocimiento. Estamos invirtiendo en algo que mucha gente va a usar y que resaltará los vínculos con nuestra empresa. Recibiremos crédito cada vez que otra organización use la herramienta.
 
-* "Es posible que en el futuro nos queramos beneficiar de alguien que esté haciendo lo mismo (karma)."
+* "Es posible que en el futuro queramos beneficiarnos de alguien que esté haciendo lo mismo (karma)."
 
 * "Estamos recibiendo la colaboración de otras personas sin costo alguno a medida que avanzamos. ¿Por qué pagarle a un desarrollador para que mantenga un programa de software privativo para siempre si podemos tener cualquier cantidad colaborando de gratis?"
 
 ### Socios
 
-Quizás ya tienes una asociación establecida con otro medio de prensa, o quizás estés pensando que crear una podría ayudar muchísimo a tu proyecto de código abierto. La cultura abierta y las posiciones con respecto a la liberación de código varían de un medio de prensa a otro: lo que piensan sobre la pertinencia de esta modalidad, qué licencias usar, y qué directrices seguir en el flujo de trabajo y la comunidad para lograr que todo marche sin obstáculos.
+Quizás ya tienes una asociación establecida con otro medio de prensa, o quizás estés pensando que crear una podría ayudar muchísimo a tu proyecto de código abierto. La cultura abierta y las posiciones con respecto a la liberación de código varían de un medio de prensa a otro: lo que piensan sobre la pertinencia de esta modalidad, qué licencias usar y qué directrices seguir en el flujo de trabajo y la comunidad para lograr que todo marche sin obstáculos.
 
 *Si preguntan "¿Por qué deberíamos trabajar con ustedes?"*
 
@@ -256,7 +256,7 @@ Puedes responder:
 
 ### Desarrolladores
 
-Dado que mantener un proyecto de código abierto puede tomar tiempo, es posible que a algunos desarrolladores pueda preocuparles la forma en que esta modalidad va a afectar sus horarios. Probablemente saben bien que los posibles colaboradores/usuarios estarán a la espera de documentación y ejemplos actualizados, nuevas versiones, respuestas a solicitudes de incorporación de cambios (*pull requests*), y corrección de *bugs* a medida que se expande el uso de la herramienta.
+Dado que mantener un proyecto de código abierto puede tomar tiempo, es posible que a algunos desarrolladores pueda preocuparles la forma en que esta modalidad va a afectar sus horarios. Probablemente saben bien que los posibles colaboradores/usuarios estarán a la espera de documentación y ejemplos actualizados, nuevas versiones, respuestas a solicitudes de incorporación de cambios (*pull requests*) y corrección de *bugs* a medida que se expande el uso de la herramienta.
 
 *Si preguntan "¿Cuánto trabajo añadirá esto a mi contenido de trabajo actual (tanto a corto como a largo plazo)?"*
 
@@ -282,17 +282,17 @@ Antes de lanzarse en una aventura de código abierto, es importante analizar si 
 
 ## Estudios de casos
 
-## ESTUDIO DE CASO: Colaboración entre departamentos
+### ESTUDIO DE CASO: Colaboración entre departamentos
 
 #### [Cómo Quartz creó Chartbuilder](http://www.niemanlab.org/2013/07/how-to-turn-everyone-in-your-newsroom-into-a-graphics-editor/)
 
-"Por supuesto, convencer a nuestro personal para que usara Chartbuilder no fue un proceso de la noche a la mañana. Pero con la ayuda de nuestros reporteros más habituados a trabajar con gráficos pudimos enseñar a todo el mundo a usar Chartbuilder con una demostración de 30 minutos, seguida de ayuda personalizada para cada participante a medida que encontraban algún problema. 
+"Por supuesto, convencer a nuestro personal para que usara Chartbuilder no fue un proceso de la noche a la mañana. Pero con la ayuda de nuestros reporteros más habituados a trabajar con gráficos pudimos enseñar a todo el mundo a usar Chartbuilder con una demostración de 30 minutos, seguida de ayuda personalizada para cada participante a medida que encontraban algún problema." 
 
-## ESTUDIO DE CASO: Colaboración entre organizaciones (reclutar socios, comunicación, financiamiento)
+### ESTUDIO DE CASO: Colaboración entre organizaciones (reclutar socios, comunicación, financiamiento)
 
 #### Proyecto Burton Street
 
-El Proyecto Burton Street comenzó en 2009 para ayudar a contar la historia de la comunidad del mismo nombre, un barrio con una población mayoritariamente negra en Asheville. En esa área se estaban realizando varias demoliciones como parte de una propuesta de expansión de la autopista interestatal que amenazaba con destruir la comunidad. El periódico local era relativamente pequeño, con recursos y competencias limitadas. Parte de su personal estaba absolutamente renuente a emprender ningún proyecto más allá del periodismo impreso tradicional. Eventualmente, tres periodistas, un editor, un grupo local de fotógrafos, dos empleados de la parte web con experiencia en programación (y entusiastas del código abierto) y varios otros amantes del código abierto en la comunidad (personas distintas en varios puntos del proyecto) colaboraron todos para llevar adelante este esfuerzo común, comunicándose con los líderes de la comunidad y sus residentes para involucrarlos directamente. 
+El Proyecto Burton Street comenzó en 2009 para ayudar a contar la historia de la comunidad del mismo nombre, un barrio con una población mayoritariamente negra en Asheville. En esa área se estaban realizando varias demoliciones como parte de una propuesta de expansión de la autopista interestatal que amenazaba con destruir a la comunidad. El periódico local era relativamente pequeño, con recursos y competencias limitadas. Parte de su personal estaba absolutamente renuente a emprender ningún proyecto más allá del periodismo impreso tradicional. Eventualmente, tres periodistas, un editor, un grupo local de fotógrafos, dos empleados de la parte web con experiencia en programación (y entusiastas del código abierto) y varios otros amantes del código abierto en la comunidad (personas distintas en varios puntos del proyecto) colaboraron todos para llevar adelante este esfuerzo común, comunicándose con los líderes de la comunidad y sus residentes para involucrarlos directamente. 
 
 La idea era mostrar desde diferentes frentes lo que estaba pasando en la comunidad, con mapas, fotografías, historias tradicionales e información aportada directamente por los residentes que estaban compartiendo sus experiencias y la historia del lugar, y al mismo tiempo brindarle al público una forma fácil de presentar la información e interactuar con ella.
 
@@ -302,7 +302,7 @@ Como no faltan por todo el país barrios que enfrentan situaciones similares, la
 
 ### Código para herramienta educativa electoral en Asheville
 
-Código para Asheville (CoA) es un proyecto cuyo objetivo fue construir una herramienta electoral de código abierto para las elecciones de 2016 que abarcase todas las votaciones posibles, yendo mucho más allá de Presidente, Gobernador y Senador para cubrir campañas que, a pesar de ser esenciales,  reciben mucho menos cobertura, como la elección del Fiscal general, el Comisionado del Condado, y los referéndums locales. Muchos medios locales ya habían enviado representantes a contactar a CoA, o habían sido contactados por CoA, al igual que los Servicios Electorales de Buncombe. En este caso, las conexiones que existían ayudaron a que se organizaran rápidamente debates y coordinaciones (eventualmente se decidió que todo el mundo se reuniera y trabajara cara a cara) para crear la herramienta educativa electoral con el aporte de expertos de diferentes áreas.
+El objetivo del proyecto *Código para Asheville* (CoA) fue construir una herramienta electoral de código abierto para las elecciones de 2016 que abarcase todas las votaciones posibles, yendo mucho más allá de Presidente, Gobernador y Senador para cubrir campañas que, a pesar de ser esenciales,  reciben mucho menos cobertura, como la elección del Fiscal General, el Comisionado del Condado y los referéndums locales. Muchos medios locales ya habían enviado representantes a contactar a CoA, o habían sido contactados por CoA, al igual que los Servicios Electorales de Buncombe. En este caso, las conexiones que existían ayudaron a que se organizaran rápidamente debates y coordinaciones (eventualmente se decidió que todo el mundo se reuniera y trabajara cara a cara) para crear la herramienta educativa electoral con el aporte de expertos de diferentes áreas.
 
 ## Más recursos 
 
