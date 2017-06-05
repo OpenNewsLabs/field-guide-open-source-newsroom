@@ -8,19 +8,19 @@ El trabajo de mejoramiento de un programa puede ser lento y bastante invisible p
 
 ## Números de versiones
 
-Es casi seguro que querrás asignarle [números de versiones](http://producingoss.com/en/development-cycle.html#release-numbering) a las diferentes versiones de tu programa. Esta práctica fija expectativas para tus usuarios, desarrolladores y robots, y le permite a la gente gestionar sus dependencias sin arruinar nada. Por regla general, siempre debes actualizar el número de versión del proyecto cuando actualices tu código.
+Es casi seguro que querrás asignar [números de versiones](http://producingoss.com/en/development-cycle.html#release-numbering) a las diferentes versiones de tu programa. Esta práctica fija expectativas para tus usuarios, desarrolladores y robots, y le permite a la gente gestionar sus dependencias sin arruinar nada. Por regla general, siempre debes actualizar el número de versión del proyecto cuando actualices tu código.
 
 Un formato de numeración común es el ["versionamiento semántico"](http://semver.org/), que usa una secuencia de tres números, como v1.5.2.
 
-El primer número se refiere a la versión "principal", y deberá incrementarse cuando los cambios introducidos podrían arruinar el trabajo de alguien si cambiase a la nueva versión. Por ejemplo, si estás en la versión 1.5.2 y cambias el nombre de una parte de la API, deberás incrementar la versión de v1.5.2 a v2.0.0. Esta nueva versión "principal" indicará que los usuarios no podrán acceder a la versión mejorada sin actualizar el resto del código.
+El primer número se refiere a la versión "principal" y deberá incrementarse cuando los cambios introducidos pudieran arruinar el trabajo de alguien si cambiase a la nueva versión. Por ejemplo, si estás en la versión v1.5.2 y cambias el nombre de una parte de la API, deberás incrementar la versión de v1.5.2 a v2.0.0. Esta nueva versión "principal" indicará que los usuarios no podrán acceder a la versión mejorada sin actualizar el resto del código.
 
-El segundo número es la versión "secundaria", y deberá incrementarse cuando añadas nuevas funcionalidades sin modificar las que ya existen. Si por ejemplo añades una función nueva de asistente, deberás incrementar la versión de v1.5.2 a v1.6.0. Esto indicará que el proyecto tiene características nuevas, y que los usuarios pueden mejorar su versión sin riesgo alguno usando el mismo código que ya tienen.
+El segundo número es la versión "secundaria" y deberá incrementarse cuando añadas nuevas funcionalidades sin modificar las que ya existen. Si por ejemplo añades una función nueva de asistente, deberás incrementar la versión de v1.5.2 a v1.6.0. Esto indicará que el proyecto tiene características nuevas, y que los usuarios pueden mejorar su versión sin riesgo alguno usando el mismo código que ya tienen.
 
-El tercer número es la versión "parche", y deberá incrementarse cuando arregles errores o refactorices las cosas por detrás del telón.
+El tercer número es la versión de "parche" y deberá incrementarse cuando arregles errores o refactorices las cosas por detrás del telón.
 
 Normalmente una versión principal 0 (ej. v0.5.0) indica que el proyecto está todavía en los inicios de su desarrollo, y publicar una versión 1.0 indica que el proyecto ya es más maduro. Pero no hay reglas específicas para esto. Algunos proyectos empiezan saltando rápidamente hacia versiones más adelantadas, mientras que otros permanecen durante años como v1.0. En lugar de ponerle demasiada atención a estas reglas, mejor concéntrate en comunicar claramente en tu documentación qué es lo que ha cambiado y hacia dónde se dirige el proyecto en el futuro.
 
-Para leer otra aproximación a la numeración de las versiones, consulta [las ideas de Jeremy Ashkenas al respecto](https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e).
+Para leer otra aproximación a la numeración de las versiones, consulta las [ideas de Jeremy Ashkenas al respecto](https://gist.github.com/jashkenas/cbd2b088e20279ae2c8e).
 
 ## Unas cuantas sugerencias profesionales para informar sobre nuevas versiones
 
@@ -30,7 +30,7 @@ Para leer otra aproximación a la numeración de las versiones, consulta [las id
 
 ## Hoja de ruta y planificación de versiones
 
-¡Anuncia públicamente el estado de tu proyecto! Incluso si has decidido dejar de darle mantenimiento (ver [Capítulo 8](es/Capitulo08-Abandono-desactivacion.md)). Es algo que puede suceder, y está bien informárselo al mundo. Mantener a los usuarios actualizados te ayudará a pedir ayuda realmente útil de tus colaboradores:
+¡Anuncia públicamente el estado de tu proyecto! Incluso si has decidido dejar de darle mantenimiento (ver [Capítulo 8](Capitulo08-Abandono-desactivacion.md)). Es algo que puede suceder, y está bien informárselo al mundo. Mantener a los usuarios actualizados te ayudará a pedir ayuda realmente útil de tus colaboradores:
 
 Ejemplos de hojas de ruta:
 
@@ -54,7 +54,7 @@ Esto significa que por defecto deberías [usar la versión de código abierto en
 
 Es posible que pienses que hay gente que desearía ver una versión nueva todas las semanas (y de hecho las hay). Pero si planeas seguir mejorando un proyecto, lo más importante es demostrar consistencia en la atención que le pones. Valora qué tiene más sentido para tu proyecto y para tu equipo: ¿versiones basadas en períodos de tiempo (ej. cada dos meses), o en nuevas características (tratar de terminar de incorporar una característica dada antes de lanzar la próxima versión)?
 
-> "Las fechas de entrega no son arbitrarias, son una promesa que nos hacemos a nosotros mismos y a nuestros usuarios para poner riendas a las infinitas posibilidades que podrían incluirse en cada versión. (...) Mientras más frecuentes y habituales sean las nuevas versiones, menos importante será que contengan una característica dada. Si no se llega incluir en esta, se incluirá en la próxima que se lance en unos meses. Cuando los lanzamientos son impredecibles o infrecuentes o demasiado espaciados, hay más presión para lograr incluir una característica más porque va a pasar mucho tiempo antes de que salga la siguiente versión. Los retrasos engendran más retrasos." - [WordPress](https://wordpress.org/about/philosophy/)
+> "Las fechas de entrega no son arbitrarias: son una promesa que nos hacemos a nosotros mismos y a nuestros usuarios para poner riendas a las infinitas posibilidades que podrían incluirse en cada versión. (...) Mientras más frecuentes y habituales sean las nuevas versiones, menos importante será que contengan una característica dada. Si no se llega a incluir en esta, se incluirá en la próxima que se lance en unos meses. Cuando los lanzamientos son impredecibles o infrecuentes o demasiado espaciados, hay más presión para lograr incluir una característica más porque va a pasar mucho tiempo antes de que salga la siguiente versión. Los retrasos engendran más retrasos." - [WordPress](https://wordpress.org/about/philosophy/)
 
 [TAREA: más estudios de casos sobre la gestión de nuevas versiones]
 
@@ -62,9 +62,9 @@ Es posible que pienses que hay gente que desearía ver una versión nueva todas 
 
 La lista de puntos a verificar para una nueva versión podría incluir:
 
-* [ ] Higieniza secretos e información personal identificable (consulta el [Capítulo 4](es/Capitulo04-Primera-version.md))
+* [ ] Higieniza secretos e información personal identificable (consulta el [Capítulo 4](Capitulo04-Primera-version.md))
 
-* [ ] Haz un resumen de los cambios que has hecho desde la última versión (usa los registros en el sistema de control de fuente, como Git, y has una búsqueda en tu rastreador de errores), poniendo énfasis en los cambios que solucionan vulnerabilidades de seguridad o que necesitan que tus usuarios cambien su flujo de trabajo o su configuración de software/hardware.
+* [ ] Haz un resumen de los cambios que has hecho desde la última versión (usa los registros en el sistema de control de fuente, como Git, y haz una búsqueda en tu rastreador de errores), poniendo énfasis en los cambios que solucionan vulnerabilidades de seguridad o que necesitan que tus usuarios cambien su flujo de trabajo o su configuración de software/hardware.
 
     * ¡USA MARCADORES! Si le asignas marcadores a los problemas y a los cambios añadidos será mucho más fácil revisar qué ha cambiado. ([Ejemplo](https://github.com/wp-cli/wp-cli/milestone/48?closed=1))
 
@@ -78,6 +78,6 @@ La lista de puntos a verificar para una nueva versión podría incluir:
 
 * [ ] Crea un paquete nuevo basado en la versión actual de tu código
 
-* [ ] Publica el resumen, la lista de problemas conocidos, la lista de colaboradores, y los hipervínculos (en su conjunto, las "Notas de la nueva versión") en una página web pública (como el blog de tu proyecto) y compártela con tu comunidad de usuarios (haciendo un anuncio en la lista de correos, en Twitter, etc.)
+* [ ] Publica el resumen, la lista de problemas conocidos, la lista de colaboradores y los hipervínculos (en su conjunto, las "Notas de la nueva versión") en una página web pública (como el blog de tu proyecto) y compártela con tu comunidad de usuarios (haciendo un anuncio en la lista de correos, en Twitter, etc.)
 
 * [ ] Actualiza la hoja de ruta
