@@ -2,7 +2,7 @@
 
 Los periodistas que trabajan con programación saben que liberar el código de sus proyectos vale la pena. Cuando compartimos herramientas que resuelven problemas comunes, podemos avanzar más rápido y dedicar más de nuestro tiempo a cubrir noticias. Abrir el código de un proyecto lo expone a muchas más miradas, y lo hace mejor.
 
-Sin embargo, no es tarea sencilla. Los plazos de entrega en las redacciones suelen dejar poco tiempo para la limpieza, la documentación y, menos aun, la planificación de las cuales depende la reusabilidad de nuestro código. En las redacciones donde esta no es una práctica habitual, puede ser difícil defender los beneficios de "regalar" el trabajo propio. Antes, durante y después de lanzar un proyecto de código abierto nos hacemos una serie común de preguntas técnicas y culturales, para las cuales, desafortunadamente, no tenemos un repositorio central de respuestas.
+Sin embargo, no es tarea sencilla. Los plazos de entrega en las redacciones suelen dejar poco tiempo para la limpieza, la documentación y, menos aún, la planificación de las cuales depende la reusabilidad de nuestro código. En las redacciones donde esta no es una práctica habitual, puede ser difícil defender los beneficios de "regalar" el trabajo propio. Antes, durante y después de lanzar un proyecto de código abierto nos hacemos una serie común de preguntas técnicas y culturales, para las cuales, desafortunadamente, no tenemos un repositorio central de respuestas.
 
 Pero entre todos podemos crear uno.
 
@@ -75,7 +75,8 @@ Las siguientes personas han colaborado con esta guía:
 * Erin Kissane
 * Noah Veltman
 * Aurelia Moser
+* Barbara Maseda
 
 ## Licencia
 
-[MIT](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/blob/master/LICENSE)
+[MIT](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom/blob/master/es/LICENCIA.md)
