@@ -44,7 +44,8 @@ This is a community resource, and it gets better every time anyone from the jour
 
 This project includes ongoing efforts to localize for readers in:
 
-* [Spanish](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom-spanish)
+* English
+* [Spanish](https://github.com/OpenNewsLabs/field-guide-open-source-newsroom-spanish) (initial translation by Barbara Maseda—thank you, Barbara!)
 
 ## Contact
 
